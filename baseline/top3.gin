@@ -1,0 +1,10 @@
+# Enables top-3 decoding.
+# ginlint: disable
+
+from __gin__ import dynamic_registration
+
+from t5x import models
+
+models.EncoderDecoderModel.predict_batch_with_aux:
+  num_decodes = 3
+  return_all_decodes = True

@@ -1,0 +1,10 @@
+from xtreme_up.baseline import tasks_lib
+
+# Prefer to set `TASK_TSV_DATA_DIR` via the Tubular automation workflow or to
+# set these after pre-processing the data for yourself since different modeling
+# choices might lead to different pre-processing decisions.
+BENCHMARK_TSV_DATA_DIR = ''
+TASK_TSV_DATA_DIR = ''
+
+tasks_lib.benchmark_tsv_data_dir.value = %BENCHMARK_TSV_DATA_DIR
+tasks_lib.task_tsv_data_dir.value = %TASK_TSV_DATA_DIR

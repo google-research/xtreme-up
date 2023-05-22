@@ -1,0 +1,5 @@
+nltk
+numpy
+prettytable
+absl
+sacrebleu

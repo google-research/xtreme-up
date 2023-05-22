@@ -1,0 +1,2819 @@
+{"prediction": "ORG: BBC $$ ORG: INEC $$ LOC: Imo steeti $$ PER: Benson $$ PER: Ibeawuchi"}
+{"prediction": "ORG: INEC $$ PER: Rotimi Oyekanmi $$ LOC: n'Imo steeti $$ PER: Ibeawuchi"}
+{"prediction": "ORG: INEC $$ LOC: Abuja"}
+{"prediction": "LOC: n'Oshodi $$ LOC: Okota $$ LOC: n'Oshodi"}
+{"prediction": "DATE: N'\u1ee5z\u1ecd \u1ee5t\u1ee5t\u1ee5 M\u1ecdnde b\u1ee5 \u1ee5b\u1ecdch\u1ecb 25 nke \u1ecdnwa Febr\u1ee5war\u1ecb $$ LOC: n'Ah\u1ecba Oshodi"}
+{"prediction": "ORG: BBC $$ DATE: n'ehihie M\u1ecdnde"}
+{"prediction": "LOC: Oshodi-Isolo $$ PER: Reuben Ibeakama"}
+{"prediction": "ORG: APC $$ LOC: Leg\u1ecds $$ PER: Joe Igbokwe $$ LOC: Leg\u1ecds"}
+{"prediction": "PER: Igbokwe $$ ORG: APC $$ LOC: n'Oshodi $$ PER: Joe Igbokwe"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: \u1ecck\u1ecdta $$ LOC: Baba Ewe"}
+{"prediction": "ORG: BBC"}
+{"prediction": "ORG: Massob $$ LOC: Legos"}
+{"prediction": "PER: Samuel Edeson $$ PER: Massob $$ ORG: otu Afenifere $$ LOC: Leg\u1ecds"}
+{"prediction": "LOC: Naijiria $$ ORG: Inec $$ PER: Muhammadu Buhari $$ DATE: af\u1ecd 2019"}
+{"prediction": "PER: Buhari $$ ORG: APC $$ PER: Atiku $$ ORG: PDP"}
+{"prediction": "DATE: 2019 $$ ORG: INEC $$ LOC: n'Abuja"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ DATE: 2019"}
+{"prediction": "LOC: n'Okota $$ LOC: Oshodi"}
+{"prediction": "ORG: Inec $$ PER: Mahmood Yakubu"}
+{"prediction": "PER: Yakubu"}
+{"prediction": "ORG: PDP $$ PER: Osita Chidoka"}
+{"prediction": "ORG: Inec"}
+{"prediction": "ORG: PDP"}
+{"prediction": "ORG: PDP $$ LOC: Naijiria $$ ORG: Inec $$ ORG: Inec"}
+{"prediction": "ORG: Inec $$ PER: Buhari $$ PER: Yemi Osibanjo $$ DATE: n'Elekere Ab\u1ee5\u1ecd nke ehihie taa $$ DATE: Wenezde"}
+{"prediction": "ORG: BBC $$ PER: Rochas"}
+{"prediction": "PER: Peter Obi"}
+{"prediction": "ORG: Leicester City $$ PER: Brendan Rogers $$ DATE: \u1ee5b\u1ecdch\u1ecb at\u1ecd $$ PER: Claude Puel"}
+{"prediction": "PER: Rogers $$ ORG: Liverpool $$ DATE: n'af\u1ecd 2012 ruo 2015 $$ PER: Kolo Toure $$ DATE: \u1ecdt\u1ee5t\u1ee5 af\u1ecd $$ ORG: n'Arsenal $$ ORG: Liverpool $$ ORG: Manchester City"}
+{"prediction": "ORG: Leicester City"}
+{"prediction": "ORG: Leicester City"}
+{"prediction": "PER: Emiliano Sala"}
+{"prediction": "PER: Chris Davies $$ PER: Glen Driscoll"}
+{"prediction": "PER: Cheta $$ PER: Rogers $$ PER: Toure $$ ORG: Celtic $$ PER: Rogers"}
+{"prediction": "PER: Rogers $$ ORG: Leicester City $$ DATE: \u1ecdnwa Juun af\u1ecd 2022"}
+{"prediction": "PER: Muhammadu Buhari $$ LOC: Na\u1ecbjir\u1ecba $$ DATE: af\u1ecd an\u1ecd \u1ecdz\u1ecd"}
+{"prediction": ""}
+{"prediction": "ORG: Inec $$ PER: Mahmood Yakubu $$ PER: Buhari $$ ORG: PDP $$ PER: Atiku Abubakar"}
+{"prediction": "DATE: 2019 $$ PER: Buhari"}
+{"prediction": "ORG: PDP $$ PER: Buhari $$ PER: Atiku Abubakar $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: n'akwa"}
+{"prediction": "LOC: Sulawesi $$ LOC: Indoneshia"}
+{"prediction": ""}
+{"prediction": "PER: Angel Di Maria $$ PER: Meunier $$ ORG: PSG $$ ORG: Dijon"}
+{"prediction": "ORG: BBC $$ DATE: n'otu nkeji"}
+{"prediction": "PER: Alph Lukau"}
+{"prediction": "PER: Alph Lukau"}
+{"prediction": "LOC: Sa\u1ee5t Afr\u1ecbka"}
+{"prediction": "PER: Alph Lukau"}
+{"prediction": ""}
+{"prediction": "ORG: \u1ee5l\u1ecd\u1ee5ka Lukau $$ LOC: Johannesburg"}
+{"prediction": "LOC: Sa\u1ee5t Afr\u1ecbka"}
+{"prediction": ""}
+{"prediction": "PER: Buhari $$ PER: Mbaka"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Kingdom Blue $$ ORG: Kings & Queens $$ ORG: Black Phoenix"}
+{"prediction": "PER: Lukau $$ ORG: Alleluia Ministries International $$ ORG: BBC"}
+{"prediction": "ORG: Sowetan $$ LOC: Kramerville"}
+{"prediction": "PER: Sowetan $$ PER: Lukau"}
+{"prediction": "LOC: Sa\u1ee5t Af\u1ecbr\u1ecbka"}
+{"prediction": ""}
+{"prediction": "PER: Dangote $$ DATE: otu \u1ee5b\u1ecdch\u1ecb"}
+{"prediction": ""}
+{"prediction": "PER: Dangote $$ LOC: Afr\u1ecbka"}
+{"prediction": "DATE: 2023"}
+{"prediction": "PER: Rotimi Amaechi $$ LOC: Rivers Steeti $$ DATE: n'etiti af\u1ecd 2007 na 2015"}
+{"prediction": "PER: Muhammadu Buhari $$ DATE: 2019 $$ LOC: Naijiria $$ DATE: n'af\u1ecd 2023"}
+{"prediction": "PER: Yemi Osinbajo $$ PER: Nuhu Ribadu $$ PER: Rotimi Amaechi $$ PER: Babatunde Fashola"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ LOC: Senegal $$ PER: Macky Sall"}
+{"prediction": "DATE: n'\u1ee5b\u1ecdch\u1ecb iri ab\u1ee5\u1ecd na an\u1ecd nke \u1ecdnwa Feb\u1ee5war\u1ecb $$ LOC: Senegal"}
+{"prediction": "ORG: PUMA $$ ORG: NIKE $$ LOC: Manchester"}
+{"prediction": "ORG: PUMA $$ ORG: Man City"}
+{"prediction": "ORG: BBC $$ DATE: nkeji"}
+{"prediction": "PER: Olisa Agbakoba $$ LOC: Na\u1ecbjir\u1ecba $$ PER: Atiku Abubakar"}
+{"prediction": "PER: Agbakoba $$ LOC: Leg\u1ecds $$ DATE: af\u1ecd a"}
+{"prediction": "ORG: APC $$ ORG: PDP"}
+{"prediction": "PER: Atiku"}
+{"prediction": "LOC: Afr\u1ecbka $$ LOC: Br\u1ecbten $$ PER: Harriet Baldwine $$ PER: Buhari $$ LOC: Na\u1ecbjir\u1ecba $$ DATE: n'\u1ee5b\u1ecdch\u1ecb Sat\u1ecdde gara aga"}
+{"prediction": "PER: Baldwin $$ ORG: Inec $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "DATE: 2019 $$ LOC: Briten $$ PER: Buhari"}
+{"prediction": "ORG: Youth Initiative for Advocacy, Growth and Advancement YIAGA AFRICA"}
+{"prediction": ""}
+{"prediction": "PER: Buhari"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Ejike Mbaka $$ DATE: izu \u1ee5ka a $$ PER: Buhari $$ PER: Atiku"}
+{"prediction": "PER: Mbaka $$ PER: Buhari"}
+{"prediction": "PER: Mbaka $$ PER: Peter Obi"}
+{"prediction": "PER: Mbaka $$ PER: Buhari"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Donald Trump $$ LOC: N\u1ecdt Korea $$ PER: Kim Jung-Un"}
+{"prediction": "DATE: n'\u1ee5t\u1ee5t\u1ee5 Febr\u1ee5war\u1ecb 28, 2019"}
+{"prediction": "PER: Trump"}
+{"prediction": "PER: Mike Pompeo $$ LOC: Amer\u1ecbka"}
+{"prediction": "LOC: N\u1ecdt Koria $$ LOC: Amer\u1ecbka $$ LOC: N\u1ecdt Koria $$ LOC: Yongbyon $$ LOC: Amer\u1ecbka"}
+{"prediction": "PER: Trump $$ PER: Jong-Un"}
+{"prediction": "ORG: Arsenal $$ ORG: Chelsea $$ ORG: Man United $$ ORG: Liverpool $$ ORG: Man City $$ DATE: n'Abal\u1ecb"}
+{"prediction": "ORG: Arsenal $$ ORG: Liverpool $$ ORG: Chelsea $$ ORG: Man Utd $$ ORG: Man City"}
+{"prediction": "ORG: BBC $$ DATE: n'otu nkeji"}
+{"prediction": "PER: Ijem Onwuamaegbu $$ LOC: n'Anambara steeti"}
+{"prediction": "LOC: Anambara steeti $$ PER: Willie Obiano $$ PER: Ijem Onwuamaegbu"}
+{"prediction": "PER: Ijem Onwuamaegbu"}
+{"prediction": "PER: Ijem Onwuamaegbu"}
+{"prediction": "PER: Ijem Onwuamaegbu $$ LOC: n'Oka $$ LOC: Anambara steeti $$ PER: Nkem Okeke $$ LOC: Enugwu $$ LOC: Ebonyi $$ LOC: Imo steeti"}
+{"prediction": "ORG: Ohaneze $$ ORG: NEF $$ ORG: Afenifere $$ ORG: MBF $$ ORG: NDF $$ PER: Atiku"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ ORG: Ohaneze nd\u1ecb Igbo $$ ORG: Northern Elders Forum $$ ORG: Middle Belt Forum $$ ORG: Niger Delta Forum $$ PER: Atiku $$ DATE: \u1ee5b\u1ecdch\u1ecb sat\u1ecdde"}
+{"prediction": "PER: Ango Abdullahi $$ PER: John Nwodo $$ PER: Ayo Adebanjo $$ PER: Edwin Clark"}
+{"prediction": ""}
+{"prediction": "PER: Buhari"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "ORG: APC $$ PER: Rochas Okorocha $$ PER: Ibikunle Amosu $$ LOC: Ogun steeti"}
+{"prediction": "ORG: BBC"}
+{"prediction": "ORG: APC $$ PER: Rochas Okorocha $$ PER: Ibikunle Amosun $$ LOC: Ogun steeti"}
+{"prediction": "ORG: BBC"}
+{"prediction": ""}
+{"prediction": "LOC: Naijiria"}
+{"prediction": "ORG: Inec $$ DATE: Sat\u1ecdde gara aga"}
+{"prediction": "ORG: Inec"}
+{"prediction": "PER: Akpabio $$ ORG: Inec $$ PER: Chris Ekpenyong"}
+{"prediction": "PER: Godswill Akpabio $$ ORG: Inec $$ PER: Chris Ekpenyong $$ ORG: PDP $$ DATE: \u1ee5b\u1ecdch\u1ecb Sat\u1ecdde mkp\u1ee5r\u1ee5 \u1ee5b\u1ecdch\u1ecb iri ab\u1ee5\u1ecd na at\u1ecd"}
+{"prediction": ""}
+{"prediction": "LOC: n'Anambra"}
+{"prediction": "PER: Ijem Onwuamaegbu $$ PER: Okaikpe $$ LOC: n'Anambara steeti"}
+{"prediction": "PER: Willie Obiano"}
+{"prediction": "LOC: Alaigbo"}
+{"prediction": "ORG: Super Falcons $$ ORG: Solvakia"}
+{"prediction": "PER: Chikwelu Oparanozie $$ ORG: Falcons"}
+{"prediction": "ORG: Super Falcons $$ LOC: Na\u1ecbjir\u1ecba $$ LOC: Slovak\u1ecba $$ LOC: Cyprus"}
+{"prediction": "PER: Rita Chikwelu"}
+{"prediction": ""}
+{"prediction": "LOC: US $$ PER: Osama Bin Ladin"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Osama Bin Laden $$ PER: Hamza"}
+{"prediction": "PER: Hamza $$ ORG: Al-Qa'ida $$ LOC: Amer\u1ecbka"}
+{"prediction": "PER: Abdusalami Abubakar $$ LOC: Na\u1ecbjiria $$ LOC: Sokoto $$ PER: Matthew Kukah $$ ORG: National Peace Committee $$ PER: Atiku Abubakar $$ PER: Peter Obi $$ ORG: PDP $$ DATE: n'abal\u1ecb T\u1ecd\u1ecdzde"}
+{"prediction": "ORG: PDP $$ ORG: PDP $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "ORG: National Peace Committee $$ PER: Yemi Osinbajo $$ LOC: n'Aso Rock"}
+{"prediction": "PER: Moghalu $$ ORG: YPP"}
+{"prediction": "ORG: Inec"}
+{"prediction": "ORG: Fulham $$ PER: Claudio Ranieri $$ PER: Scott Parker"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb nar\u1ecb na isii"}
+{"prediction": "ORG: BBC $$ DATE: nkeji"}
+{"prediction": "LOC: Briten $$ LOC: Amer\u1ecbka $$ LOC: n'Yurop"}
+{"prediction": "DATE: Christmas $$ DATE: Ekeresimesi $$ PER: Ekeson"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: 'Airbnb'"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: winta"}
+{"prediction": "LOC: Briten $$ LOC: Amer\u1ecbka"}
+{"prediction": "LOC: London $$ LOC: Nu Y\u1ecdk"}
+{"prediction": "LOC: Naijiria"}
+{"prediction": "PER: Anne Ifedigbo $$ LOC: Amer\u1ecbka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: St Paul's Cathedral $$ LOC: L\u1ecdnd\u1ecdn $$ PER: Diana $$ PER: Charles $$ DATE: af\u1ecd gara aga"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: 'Wobbling Bridge' $$ LOC: Osimiri Thames"}
+{"prediction": "LOC: L\u1ecdnd\u1ecdn $$ LOC: Osimiri Thames $$ LOC: Nu Y\u1ecdk $$ LOC: Liberty Statue"}
+{"prediction": "ORG: St Paul's Cathedral $$ PER: Diana $$ PER: Charles"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Briten $$ LOC: Sentral\u1ee5 L\u1ecdnd\u1ecdn $$ PER: Tom Hilger $$ PER: Tezeni"}
+{"prediction": "LOC: Woolrich $$ LOC: L\u1ecdnd\u1ecdn"}
+{"prediction": "LOC: Depford"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: 2019 $$ ORG: PDP $$ PER: Atiku Ab\u1ee5bakar $$ ORG: EFCC $$ PER: Babalele Abdulahi"}
+{"prediction": "PER: Abdulahi $$ PER: Atiku $$ DATE: \u1ee5b\u1ecdch\u1ecb Satode $$ DATE: abali ab\u1ee5\u1ecd nke \u1ecdnwa Maach\u1ecb $$ LOC: n'Abuja"}
+{"prediction": "PER: Paul Ibe $$ PER: Atiku $$ LOC: Naijiria $$ ORG: EFCC"}
+{"prediction": "PER: Atiku $$ LOC: Naijiria $$ DATE: n'abal\u1ecb 23 nke \u1ecdnwa Feb\u1ee5war\u1ecb"}
+{"prediction": "DATE: 2019 $$ ORG: PDP"}
+{"prediction": "ORG: PDP $$ PER: Atiku $$ DATE: 2019"}
+{"prediction": "PER: Atku $$ PER: Muhammadu Buhari $$ DATE: n'abali 23 nke \u1ecdnwa Febuwari"}
+{"prediction": "ORG: PDP $$ ORG: APC $$ ORG: Inec"}
+{"prediction": "PER: Buhari"}
+{"prediction": ""}
+{"prediction": "LOC: Naijiria $$ ORG: Miyetti Allah $$ PER: Muhammadu Buhari"}
+{"prediction": "PER: Atiku Ab\u1ee5bakar"}
+{"prediction": "ORG: \u1ee5l\u1ecd ntaak\u1ee5k\u1ecd 'Sun' $$ PER: Bello Abdullahi Bodejo $$ PER: Buhari"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: APC $$ LOC: Imo"}
+{"prediction": "ORG: APC $$ LOC: n'Imo steeti $$ DATE: n'\u1ee5b\u1ecdch\u1ecb Satode $$ PER: Rochas Okorocha $$ DATE: n'\u1ee5b\u1ecdch\u1ecb Fraide"}
+{"prediction": "PER: Okorocha $$ PER: Uche Nwosu"}
+{"prediction": "PER: Cheta $$ PER: Anthony Okah $$ PER: Rochas $$ ORG: n'APC"}
+{"prediction": "ORG: INEC $$ DATE: n'abal\u1ecb itoolu nke \u1ecdnwa Maach\u1ecb"}
+{"prediction": "ORG: Inec"}
+{"prediction": "ORG: APC $$ PER: Timi Frank"}
+{"prediction": ""}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "ORG: NYSC $$ ORG: Inec"}
+{"prediction": "PER: Adenike Adeyemi"}
+{"prediction": "LOC: Kongo $$ PER: Felix Tshisekedi $$ DATE: \u1ee5b\u1ecdch\u1ecb iri"}
+{"prediction": ""}
+{"prediction": "PER: Peirre-Emerick Aubameyang $$ ORG: Arsenal $$ ORG: Tottenham $$ DATE: Satode"}
+{"prediction": "ORG: Arsenal $$ ORG: Tottenham"}
+{"prediction": "ORG: BBC $$ DATE: n'otu nkeji"}
+{"prediction": "ORG: Accord $$ ORG: APGA $$ LOC: n'Abia Steeti"}
+{"prediction": "ORG: Acoord $$ LOC: n'Abia $$ PER: Emeka Uwakolam $$ ORG: APGA $$ PER: Alex Otti"}
+{"prediction": "PER: Uwakolam $$ PER: Alex Otti $$ LOC: n'Umuahia $$ DATE: \u1ee5nyaah\u1ee5"}
+{"prediction": "LOC: Abia $$ LOC: Ab\u1ecba"}
+{"prediction": "ORG: BBC $$ LOC: n'Ab\u1ecba $$ PER: Ikpeazu"}
+{"prediction": "PER: Otti $$ PER: Uwakolam $$ LOC: n'Abia $$ PER: Uwakolam $$ LOC: Abia"}
+{"prediction": "ORG: NTA $$ ORG: AIT $$ ORG: Channels $$ ORG: NBC"}
+{"prediction": "ORG: National Broadcasting Commission $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "PER: Is'haq Modibbo $$ ORG: NTA $$ ORG: AIT $$ ORG: Channels"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Otto Warmbier $$ LOC: N\u1ecdt Kor\u1ecba $$ PER: Donald Trump $$ LOC: N\u1ecdt Kor\u1ecba $$ PER: Kim Jong-Un"}
+{"prediction": "PER: Warmbier $$ PER: Kim"}
+{"prediction": "DATE: Ehihie a $$ ORG: Tottenham $$ ORG: Arsenal $$ ORG: Bournamouth $$ ORG: Manchester City $$ ORG: Manchester United $$ ORG: Southampton"}
+{"prediction": ""}
+{"prediction": "ORG: APC $$ LOC: Imo $$ ORG: \u1ecagbanye $$ PER: Rochas"}
+{"prediction": "ORG: APC $$ LOC: Imo steeti $$ DATE: af\u1ecd gara aga"}
+{"prediction": "ORG: APC $$ LOC: Imo steeti $$ PER: Adams Oshiomhole $$ PER: Okorocha"}
+{"prediction": "LOC: Imo steeti $$ PER: Daniel Nwafor $$ DATE: \u1ee5b\u1ecdch\u1ecb Sat\u1ecdde $$ PER: Adams Oshiohmole"}
+{"prediction": "ORG: SERAP"}
+{"prediction": "ORG: Socio-Economic Rights and Accountability Project $$ ORG: SERAP $$ ORG: ECOWAS $$ LOC: n'Abuja"}
+{"prediction": "ORG: SERAP $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: n'Algeria $$ PER: Abdelaziz Bouteflika"}
+{"prediction": "PER: Bouteflika $$ DATE: n'\u1ecdnwa gara aga"}
+{"prediction": "ORG: Chelsea $$ ORG: Fullham"}
+{"prediction": "PER: Chelea $$ ORG: Fulham"}
+{"prediction": "ORG: Watford $$ ORG: Leicester"}
+{"prediction": "ORG: Chelsea $$ ORG: Fulhma"}
+{"prediction": "DATE: nkeji"}
+{"prediction": "PER: Atiku"}
+{"prediction": "PER: Atiku Ab\u1ee5bakar"}
+{"prediction": "PER: Cheta $$ PER: Abubakar $$ ORG: PDP"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ PER: Abubakar $$ PER: Buhari"}
+{"prediction": "LOC: Kaduna"}
+{"prediction": "PER: Nasir el-Rufai $$ LOC: Abuja"}
+{"prediction": "LOC: Kaduna"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Sat\u1ecdde $$ LOC: Sabon Sara $$ LOC: Kidandan $$ LOC: Giwa"}
+{"prediction": "LOC: n'Ital\u1ecb"}
+{"prediction": "LOC: Milan $$ LOC: \u1ecatali"}
+{"prediction": ""}
+{"prediction": "ORG: Barca $$ ORG: Madrid"}
+{"prediction": "ORG: Barcelona $$ ORG: Real Madrid $$ DATE: \u1ee5b\u1ecdch\u1ecb an\u1ecd"}
+{"prediction": "ORG: Barca $$ ORG: Madrid $$ DATE: n'abal\u1ecb \u1ee5nyaah\u1ee5"}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": "ORG: Ohaneze Ndigbo $$ LOC: Leg\u1ecds $$ PER: Babajide Sanwo-Olu"}
+{"prediction": "PER: Solomon Ogbonna $$ LOC: Leg\u1ecds"}
+{"prediction": "PER: Sanwo-Olu"}
+{"prediction": "ORG: Biafra $$ ORG: Ipob"}
+{"prediction": "ORG: Biafra $$ LOC: Na\u1ecbjir\u1ecba $$ ORG: Ipob $$ LOC: Na\u1ecbjir\u1ecba $$ DATE: n'\u1ecdnwa Mee $$ ORG: Biafra"}
+{"prediction": "PER: Emma Powerful $$ ORG: Biafra"}
+{"prediction": "LOC: China $$ LOC: Canada $$ LOC: Canada $$ PER: Meng Manzhou"}
+{"prediction": ""}
+{"prediction": "PER: Gareth bale $$ ORG: Real Madrid $$ ORG: Real Madrid $$ PER: Bale"}
+{"prediction": "PER: Gareth Bale $$ ORG: Barcelona $$ DATE: Sat\u1ecdde"}
+{"prediction": "LOC: Nembe $$ LOC: Bayelsa"}
+{"prediction": "DATE: Fra\u1ecbde $$ LOC: Bayelsa $$ PER: Asinim Butswat"}
+{"prediction": "LOC: Izrel $$ LOC: Palest\u1ecbne"}
+{"prediction": ""}
+{"prediction": "PER: Enweghi $$ ORG: Liverpool $$ ORG: Everton $$ DATE: n'abal\u1ecb"}
+{"prediction": "ORG: Manchester City"}
+{"prediction": "PER: Peter Obi $$ ORG: n'ul\u1ecdikpe Na\u1ecbjir\u1ecba"}
+{"prediction": "DATE: n'\u1ecdnwa Februwar\u1ecb iri ab\u1ee5\u1ecd na at\u1ecd $$ PER: Peter Obi"}
+{"prediction": "ORG: n'\u1ee5l\u1ecdikpe Na\u1ecbjir\u1ecba"}
+{"prediction": "ORG: APC $$ PER: Oshiomhole $$ PER: Osita Okechukwu"}
+{"prediction": "PER: Peter Obi $$ PER: Oshiomhole"}
+{"prediction": "PER: Obi $$ LOC: n'Onitsha $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": ""}
+{"prediction": "PER: Obi"}
+{"prediction": "ORG: PDP"}
+{"prediction": "ORG: APC $$ LOC: Imo steeti $$ PER: Oshiomhole"}
+{"prediction": "PER: Mbaka $$ PER: Buhari"}
+{"prediction": "DATE: 2019 $$ ORG: APC $$ ORG: PDP $$ DATE: 2019"}
+{"prediction": "PER: Uche Nwosu"}
+{"prediction": "ORG: Action Alliance $$ ORG: FCC $$ PER: Jones $$ PER: Uche Nwosu $$ LOC: n'Imo steeti"}
+{"prediction": "PER: Rochas Okorocha $$ ORG: AA"}
+{"prediction": "ORG: Action Alliance $$ PER: Uche Nwosu $$ PER: Obidiche"}
+{"prediction": "DATE: taa $$ PER: Nwosu $$ PER: Okorocha"}
+{"prediction": "PER: Jones $$ PER: Okorocha $$ PER: Uche Nwosu $$ ORG: Action Alliance"}
+{"prediction": "LOC: Imo $$ ORG: AA"}
+{"prediction": "LOC: Enugu $$ LOC: Ebonyi"}
+{"prediction": "ORG: Manchester City $$ ORG: PSG"}
+{"prediction": "LOC: n'Imo $$ LOC: Abia steeti"}
+{"prediction": "LOC: Ojiegbe $$ PER: Emeka Ihedioha $$ PER: Ugochukwu $$ ORG: BBC $$ PER: Nsorom Nnamdi $$ LOC: Ojiegbe"}
+{"prediction": "ORG: PDP $$ PER: Ihedioha $$ ORG: PDP $$ LOC: n'Imo"}
+{"prediction": "LOC: n'Imo $$ LOC: Abia steeti"}
+{"prediction": "PER: Nsorom $$ PER: Ihedioha $$ LOC: Imo steeti $$ ORG: PDP $$ DATE: n'okpuru\u1ecdch\u1ecbch\u1ecb Isu $$ ORG: PDP $$ LOC: n'\u1eccl\u1ee5 zone"}
+{"prediction": "PER: Eze $$ ORG: BBC $$ PER: Nsorom Nnamdi $$ ORG: Federal Medical Center $$ LOC: n'Owere"}
+{"prediction": "ORG: BBC $$ LOC: n'Imo steeti $$ PER: Orlando Ikeokwu"}
+{"prediction": "ORG: Inec $$ LOC: Ebonyi $$ LOC: Imo $$ LOC: Abia"}
+{"prediction": "PER: Uche Nwosu $$ ORG: FCC Jones"}
+{"prediction": "LOC: Enugu $$ LOC: Ebonyi"}
+{"prediction": "PER: Sandie Okoro $$ ORG: World Bank"}
+{"prediction": ""}
+{"prediction": "LOC: Satellite Town"}
+{"prediction": "DATE: \u1ee5t\u1ee5t\u1ee5 $$ DATE: mgbede a"}
+{"prediction": "LOC: Lagos"}
+{"prediction": "LOC: n'Anambra"}
+{"prediction": "ORG: BBC $$ DATE: \u1ee5t\u1ee5t\u1ee5"}
+{"prediction": "LOC: n'Abulado"}
+{"prediction": ""}
+{"prediction": "PER: Sochimaoge Madubo"}
+{"prediction": "PER: Uche Nwosu $$ DATE: sat\u1ecdde"}
+{"prediction": "LOC: Naijiria $$ ORG: APC"}
+{"prediction": "ORG: APC $$ LOC: Rivas $$ LOC: Cross Rivas $$ LOC: Zamfara"}
+{"prediction": "PER: \u1eccgbaghara $$ ORG: APC $$ LOC: n'Imo steeti"}
+{"prediction": "ORG: APC $$ LOC: n'Enugwu"}
+{"prediction": "DATE: n'af\u1ecd 2018"}
+{"prediction": "PER: Goddy Uwazuruike"}
+{"prediction": "PER: Uwazuruike"}
+{"prediction": "ORG: APC"}
+{"prediction": "ORG: APC"}
+{"prediction": ""}
+{"prediction": "ORG: APC $$ LOC: Kr\u1ecds Riva"}
+{"prediction": "PER: John Owan-Enoh $$ ORG: APC"}
+{"prediction": "ORG: n'APC"}
+{"prediction": "PER: Uwazuruike"}
+{"prediction": ""}
+{"prediction": "LOC: Rivas steeti $$ ORG: APC $$ ORG: Inec $$ ORG: APC"}
+{"prediction": "PER: Tonye Cole $$ ORG: APC"}
+{"prediction": "ORG: \u1ee4l\u1ecdikpe ukwu $$ LOC: n'Abuja $$ ORG: APC"}
+{"prediction": "ORG: Inec $$ ORG: APC"}
+{"prediction": "ORG: APC"}
+{"prediction": ""}
+{"prediction": "LOC: Enugwu $$ LOC: Taraba"}
+{"prediction": "LOC: N'Enugwu $$ ORG: Inec $$ ORG: APC $$ DATE: \u1ee5b\u1ecdch\u1ecb March 9"}
+{"prediction": "ORG: \u1ee5l\u1ecdikpe ukwu $$ LOC: n'Abuja $$ PER: Ayogu Eze"}
+{"prediction": "PER: George Ogara $$ ORG: APC $$ ORG: Inec $$ ORG: APC"}
+{"prediction": "DATE: taa $$ DATE: T\u1ecdzde, Maach\u1ecb 7 $$ PER: Ayogu Eze $$ ORG: APC $$ LOC: n'Enugwu $$ DATE: 2019"}
+{"prediction": "ORG: APC $$ LOC: Taraba $$ LOC: Rivas $$ DATE: ehihie"}
+{"prediction": "DATE: \u1ee4b\u1ecdch\u1ecb Wenezde Maach\u1ecb 6 $$ PER: Sani Danladi $$ ORG: APC"}
+{"prediction": "ORG: APC $$ LOC: Taraba $$ PER: Ibrahim Tukur El-sudi"}
+{"prediction": "ORG: APC $$ LOC: Zamfara $$ ORG: BBC $$ LOC: Jalingo $$ DATE: \u1ee5nyaah\u1ee5"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Uche Nwosu $$ DATE: Sat\u1ecdde"}
+{"prediction": "LOC: n'Imo $$ LOC: Abia steeti"}
+{"prediction": "ORG: PDP $$ ORG: APC"}
+{"prediction": "PER: Muhammdu Buhari $$ ORG: PDP"}
+{"prediction": "ORG: PDP $$ DATE: n'af\u1ecd iri na isii"}
+{"prediction": "LOC: Enugu $$ LOC: Ebonyi"}
+{"prediction": "LOC: n'Imo $$ LOC: Abia steeti"}
+{"prediction": "DATE: n'af\u1ecd 2015"}
+{"prediction": "ORG: n'APC $$ ORG: PDP $$ DATE: af\u1ecd iri na isii"}
+{"prediction": "ORG: APC $$ ORG: PDP"}
+{"prediction": "PER: Rotimi Amaechi $$ LOC: Rivers Steeti $$ DATE: n'etiti af\u1ecd 2007 na 2015"}
+{"prediction": "LOC: Rivas steeti $$ ORG: PDP $$ DATE: n'af\u1ecd 2007 rue 2015"}
+{"prediction": "ORG: APC"}
+{"prediction": "LOC: Abia steeti $$ DATE: n'af\u1ecd 1999"}
+{"prediction": "ORG: APC"}
+{"prediction": "PER: Obasanjo $$ PER: Okorocha $$ DATE: n'af\u1ecd 1999"}
+{"prediction": "ORG: PDP $$ ORG: APGA $$ ORG: n'APC"}
+{"prediction": "PER: Okorocha"}
+{"prediction": ""}
+{"prediction": "PER: Ngige $$ LOC: Anambra $$ ORG: PDP $$ DATE: n'af\u1ecd 2003 ruo 2006"}
+{"prediction": ""}
+{"prediction": "PER: Godswill Akpabio $$ LOC: Akwa Ibom steeti $$ DATE: n'af\u1ecd 2007 rue af\u1ecd 2015"}
+{"prediction": "ORG: APC"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ ORG: PDP"}
+{"prediction": "LOC: Kaduna"}
+{"prediction": "ORG: PDP $$ LOC: Kano steeti"}
+{"prediction": "ORG: APC"}
+{"prediction": "PER: Audu Ogbeh $$ ORG: PDP $$ LOC: Na\u1ecbjir\u1ecba $$ ORG: APC"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: Akwa Ibom Sa\u1ee5t $$ DATE: n'af\u1ecd 1999 rue af\u1ecd 2007"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: Bayelsa West $$ DATE: n'af\u1ecd 2007 rue 2015 $$ ORG: PDP"}
+{"prediction": ""}
+{"prediction": "PER: Uche Nwosu $$ DATE: Sat\u1ecdde"}
+{"prediction": "ORG: Inec $$ LOC: Ebonyi $$ LOC: Imo $$ LOC: Abia"}
+{"prediction": "ORG: Inec $$ LOC: n'Akwa Ibom"}
+{"prediction": "ORG: Inec"}
+{"prediction": "LOC: Naijria $$ DATE: af\u1ecd 2019 $$ ORG: Inec"}
+{"prediction": "LOC: Adamawa $$ LOC: Kano $$ LOC: Sokoto $$ LOC: Bauchi $$ LOC: Platu steeti"}
+{"prediction": "PER: Rochas"}
+{"prediction": "ORG: PDP $$ ORG: APC"}
+{"prediction": ""}
+{"prediction": "PER: Ifeanyi Ulumma"}
+{"prediction": ""}
+{"prediction": "PER: Agbakoba $$ LOC: Naijiria"}
+{"prediction": "PER: Rochas"}
+{"prediction": "ORG: PDP $$ ORG: APC"}
+{"prediction": "PER: Agbakoba $$ PER: Ulumma"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Adamawa $$ LOC: Kano $$ LOC: Sokoto $$ LOC: Bauchi $$ LOC: Platu steeti $$ LOC: Ulumma $$ LOC: Agbak\u1ecdba $$ ORG: PDP"}
+{"prediction": "PER: Ulumma $$ ORG: Inec $$ ORG: APC $$ ORG: APGA"}
+{"prediction": "DATE: taa"}
+{"prediction": "LOC: Nigeria $$ DATE: 2019"}
+{"prediction": "PER: Buhari"}
+{"prediction": "ORG: Inec $$ DATE: taa $$ PER: Rochas Okorocha $$ ORG: Inec"}
+{"prediction": "PER: Okoroocha $$ ORG: Inec"}
+{"prediction": "PER: Rochas $$ DATE: 2023"}
+{"prediction": "PER: Rochas $$ PER: Stella Udogu"}
+{"prediction": "PER: Ebere Nzewuji"}
+{"prediction": "PER: Okorocha"}
+{"prediction": ""}
+{"prediction": "ORG: Inec $$ PER: Goddy Uwazurike $$ ORG: BBC"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Inec"}
+{"prediction": "DATE: 2019 $$ PER: 'Oshiomhole $$ PER: Rochas"}
+{"prediction": "PER: Uwazuruike $$ ORG: Inec"}
+{"prediction": "PER: Uche Ekwuinife $$ LOC: Anambara sentral\u1ee5"}
+{"prediction": "PER: Ike Ekweremadu $$ LOC: Enugu"}
+{"prediction": "ORG: Inec $$ PER: Buhari"}
+{"prediction": ""}
+{"prediction": "ORG: twitter"}
+{"prediction": "ORG: Inec $$ DATE: n'elekere ab\u1ee5\u1ecd nke ehihie taa $$ DATE: Maachi iri na ab\u1ee5\u1ecd"}
+{"prediction": "LOC: Lagos"}
+{"prediction": "ORG: Barcelona $$ ORG: Lyon $$ ORG: Liverpool $$ ORG: Bayern"}
+{"prediction": "ORG: APC"}
+{"prediction": "PER: Rochas"}
+{"prediction": ""}
+{"prediction": "LOC: Leg\u1ecds"}
+{"prediction": "LOC: Legos $$ LOC: Na\u1ecbjir\u1ecba $$ LOC: Afr\u1ecbka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Anthony Ede $$ ORG: Mahadum Covenant $$ LOC: n'\u1eccta $$ LOC: Na\u1ecbjir\u1ecba $$ DATE: n'af\u1ecd 2016"}
+{"prediction": ""}
+{"prediction": "LOC: Leg\u1ecds"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nyagatare $$ LOC: Rwanda $$ DATE: n'af\u1ecd 2013"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Hermogene Nsengimana $$ ORG: n'African Organisation for Standardisation $$ DATE: n'af\u1ecd 2016 $$ LOC: n'Afr\u1ecbka"}
+{"prediction": "LOC: Nairobi $$ DATE: n'af\u1ecd 2016"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Ede"}
+{"prediction": ""}
+{"prediction": "PER: Ede"}
+{"prediction": "LOC: Ingin\u1ecba $$ PER: Henry Mwanaki Alinaitwe $$ PER: Stephen Ekolu $$ LOC: Uganda"}
+{"prediction": ""}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ DATE: af\u1ecd 2012"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ DATE: n'af\u1ecd 2014 ruo af\u1ecd 2016 $$ ORG: Nigerian Buliding and road research Institute"}
+{"prediction": "DATE: 2012 $$ LOC: Lag\u1ecds $$ LOC: n'Abuja"}
+{"prediction": "DATE: 2013 $$ LOC: Lagos $$ LOC: n'Abuja"}
+{"prediction": "DATE: 2014 $$ LOC: Lagos $$ LOC: n'Abuja"}
+{"prediction": "DATE: n'af\u1ecd 2017 $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "DATE: n'\u1ee5b\u1ecdch\u1ecb Maach\u1ecb iri na at\u1ecd mere ya nke at\u1ecd n'af\u1ecd 2019"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Ede"}
+{"prediction": ""}
+{"prediction": "PER: Ede"}
+{"prediction": "ORG: \u1ee5l\u1ecd\u1ee5ka Synagogue $$ PER: TB Joshua"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Inginia"}
+{"prediction": "PER: Ede $$ LOC: ingin\u1ecba"}
+{"prediction": ""}
+{"prediction": "LOC: Lagos $$ LOC: Lagos $$ DATE: n'af\u1ecd 2017"}
+{"prediction": ""}
+{"prediction": "PER: Felicia Agubata $$ LOC: Lag\u1ecds"}
+{"prediction": "ORG: LSBCA"}
+{"prediction": "PER: El-Rufai"}
+{"prediction": "ORG: Arsenal $$ ORG: Rennes $$ PER: Iwobi"}
+{"prediction": "PER: Uche Nwosu"}
+{"prediction": "PER: Rochas"}
+{"prediction": "DATE: taa"}
+{"prediction": "LOC: New Zealand $$ PER: Brenton Tarrant"}
+{"prediction": "PER: Brenton Tarrant $$ DATE: \u1ee5b\u1ecdch\u1ecb Satode $$ LOC: Nu Ziland"}
+{"prediction": "PER: Brenton Tarrant $$ LOC: Nu Ziland"}
+{"prediction": "LOC: ChristChurch $$ LOC: Nu Ziland $$ DATE: n'\u1ee5b\u1ecdch\u1ecb Fraide"}
+{"prediction": "PER: Brenton Tarant"}
+{"prediction": "ORG: Facebook $$ ORG: Twitter $$ ORG: Youtube $$ ORG: Whatsapp"}
+{"prediction": ""}
+{"prediction": "LOC: Nu Ziland $$ PER: Jaccinda Arden"}
+{"prediction": "LOC: Australia $$ PER: Brenton Tarrant $$ ORG: Al Noor Mosque"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: \u1ee5l\u1ecd\u1ecdr\u1ee5 ak\u1ee5k\u1ecd New Zealand"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Ibadan"}
+{"prediction": "LOC: Molete $$ LOC: n'Ibadan $$ LOC: Oyo"}
+{"prediction": "ORG: twitter"}
+{"prediction": "ORG: NEMA $$ LOC: Na\u1ecbjir\u1ecba $$ LOC: Libya"}
+{"prediction": "ORG: NEMA $$ LOC: Na\u1ecbjir\u1ecba $$ LOC: Libya"}
+{"prediction": "LOC: Leg\u1ecds $$ PER: Idris Muhammed"}
+{"prediction": "ORG: n'Uefa"}
+{"prediction": "ORG: NLC $$ DATE: 2019"}
+{"prediction": "ORG: NLC $$ ORG: Inec $$ DATE: 2019 $$ DATE: n'abali iri ab\u1ee5\u1ecd na at\u1ecd nke \u1ecdnwa Maach"}
+{"prediction": "PER: Okorocha $$ LOC: Imo steeti"}
+{"prediction": "LOC: Imo steeti $$ PER: Rochas Okorocha $$ ORG: Inec $$ LOC: \u1eccl\u1ee5 $$ LOC: \u1ee4l\u1ecdomeiwu Ukwu"}
+{"prediction": "PER: Okorocha $$ LOC: n'Abuja $$ DATE: \u1ee5b\u1ecdch\u1ecb Wenezde"}
+{"prediction": "ORG: Inec $$ DATE: \u1ee5b\u1ecdch\u1ecb T\u1ecdzde"}
+{"prediction": "PER: Franfurt $$ ORG: Inter Milan"}
+{"prediction": "PER: Aisha Buhari $$ LOC: Leg\u1ecds"}
+{"prediction": ""}
+{"prediction": "PER: Aisha $$ LOC: Leg\u1ecds"}
+{"prediction": ""}
+{"prediction": "PER: Rivas"}
+{"prediction": "PER: Ferry Gberegbe $$ PER: Nyesom Wike"}
+{"prediction": "PER: Nyesom Wike $$ PER: Gberegbe"}
+{"prediction": "PER: Gberegbe $$ ORG: PDP $$ LOC: Khana $$ LOC: Rivas steeti"}
+{"prediction": "PER: Gberegbe $$ ORG: Rivers Poly $$ LOC: Bori"}
+{"prediction": "LOC: Rivas steeti $$ PER: Wike $$ PER: Gberegbe"}
+{"prediction": "ORG: Nollywood"}
+{"prediction": "ORG: APC"}
+{"prediction": "PER: Wike"}
+{"prediction": "PER: Uche Secondus $$ ORG: PDP $$ PER: Wike $$ PER: Gberegbe"}
+{"prediction": "ORG: BBC $$ PER: Nnamdi Omoni $$ LOC: Rivas steeti"}
+{"prediction": "LOC: n'IDP camp"}
+{"prediction": "ORG: Norwegian Refugee Council $$ LOC: Gajiram $$ LOC: B\u1ecdr\u1ecdnu steeti"}
+{"prediction": "LOC: Zimbabwe"}
+{"prediction": "LOC: Mozambique $$ DATE: mgbede T\u1ecd\u1ecdzde gara aga $$ LOC: Zimbabwe"}
+{"prediction": "LOC: Na\u1ecbjiria $$ LOC: R\u1ecdsh\u1ecba $$ LOC: Ajentina $$ LOC: Koriya $$ DATE: n'\u1ee5b\u1ecdch\u1ecb iri at\u1ecd na otu nke \u1ecdnwa \u1eccg\u1ecdst $$ LOC: Cha\u1ecbna"}
+{"prediction": "PER: Gbenga Daniel"}
+{"prediction": "PER: Gbenga Daniela $$ LOC: Ogun steeti $$ PER: Atiku Abubakar $$ DATE: 2019"}
+{"prediction": "PER: Gbenga Daniel $$ LOC: Ogun steeti $$ DATE: af\u1ecd asat\u1ecd $$ DATE: n'af\u1ecd 2003 ruo af\u1ecd 2011"}
+{"prediction": "ORG: BBC $$ DATE: n'\u1ee5b\u1ecdch\u1ecb 14 nke \u1ecdnwa Maach\u1ecb"}
+{"prediction": "ORG: Gateway Front Foundation $$ ORG: GFF"}
+{"prediction": "LOC: Rivas steeti"}
+{"prediction": "ORG: Inec $$ LOC: Rivas steeti $$ LOC: Naijiria $$ ORG: Inec"}
+{"prediction": "ORG: Inec $$ LOC: Naijiria $$ LOC: Rivas steeti"}
+{"prediction": "DATE: 2019 $$ ORG: APC"}
+{"prediction": "ORG: Inec $$ PER: Festus Okoye $$ DATE: Fraide"}
+{"prediction": "PER: Cheta $$ ORG: Inec $$ LOC: Rivas $$ DATE: n'abali 10 nke \u1ecdnwa Maachi"}
+{"prediction": "PER: Enwezor"}
+{"prediction": "PER: Okwui Enwezor $$ ORG: Haus Der Kunst $$ LOC: Germany"}
+{"prediction": "PER: Okwui Enwezor $$ LOC: Awkuzu $$ LOC: Anambara steeti $$ DATE: \u1ee5b\u1ecdch\u1ecb Fraide $$ LOC: Germany"}
+{"prediction": "PER: Enwezor $$ ORG: Haus Der Kunst $$ LOC: Germany"}
+{"prediction": "LOC: n'Ibadan $$ LOC: Oyo steeti"}
+{"prediction": "LOC: Molete $$ LOC: Ibadan $$ LOC: Oyo steeti $$ DATE: \u1ee5b\u1ecdch\u1ecb Fraide"}
+{"prediction": "LOC: Leg\u1ecds"}
+{"prediction": ""}
+{"prediction": "LOC: New Zealand $$ PER: Brenton Tarrant"}
+{"prediction": "PER: Brenton Tarrant $$ DATE: \u1ee5b\u1ecdch\u1ecb Satode $$ LOC: Nu Ziland"}
+{"prediction": "PER: Brenton Tarrant $$ LOC: Nu Ziland"}
+{"prediction": "LOC: New Zealand"}
+{"prediction": ""}
+{"prediction": "ORG: Fifa $$ DATE: n'af\u1ecd 2021"}
+{"prediction": "ORG: Fifa $$ DATE: \u1ecdnwa Juun, af\u1ecd 2021"}
+{"prediction": ""}
+{"prediction": "ORG: otu \u1ee5k\u1ecdchukwu \u1ee5ka Kat\u1ecdlik $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "DATE: Lent"}
+{"prediction": "ORG: kat\u1ecdlik"}
+{"prediction": "LOC: Nigeria $$ DATE: 2019 $$ PER: Mbaka $$ PER: Oyedepo"}
+{"prediction": "ORG: \u1ee4ka Kat\u1ecdliki $$ LOC: n'Enugwu"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "DATE: lent"}
+{"prediction": "LOC: Na\u1ecbjiria $$ DATE: n'\u1ee5b\u1ecdch\u1ecb Maach\u1ecb 17, 2019 $$ DATE: \u1ee5ka nke ab\u1ee5\u1ecd $$ DATE: Lent"}
+{"prediction": "PER: Ignatius Kaigama $$ LOC: Jos $$ LOC: Abuja"}
+{"prediction": "ORG: PDP $$ PER: Atiku Abubakar"}
+{"prediction": "LOC: n'Abuja $$ DATE: n'\u1ee5b\u1ecdch\u1ecb iri ab\u1ee5\u1ecd na at\u1ecd nke \u1ecdnwa Feb\u1ee5war\u1ecb"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Kazakhstan $$ PER: Nursultan Nazarbayev"}
+{"prediction": "PER: Nazarbayev $$ PER: Kassym-Jomart Tokayev $$ DATE: n'\u1ecdnwa Epreel\u1ee5 2020"}
+{"prediction": "ORG: Super Falcons $$ PER: Asisat Oshoala"}
+{"prediction": "ORG: Barcelona $$ ORG: Atletico Madrid $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ ORG: Inec $$ LOC: Rivas steeti"}
+{"prediction": "ORG: Inec"}
+{"prediction": "LOC: Utrecht"}
+{"prediction": "LOC: Utrecht $$ LOC: Netherlands"}
+{"prediction": "PER: Gokmen Tanis"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ LOC: Tunisia $$ DATE: taa $$ LOC: Libya $$ LOC: Afr\u1ecbka"}
+{"prediction": "PER: Atiku Abubakar $$ ORG: PDP $$ DATE: 2019"}
+{"prediction": ""}
+{"prediction": "PER: Atiku"}
+{"prediction": ""}
+{"prediction": "LOC: n'Enugwu $$ PER: Chris Ngige $$ DATE: n'af\u1ecd 2003 $$ PER: Peter Obi $$ DATE: n'af\u1ecd 2006"}
+{"prediction": "PER: Ngige $$ ORG: PDP $$ ORG: APGA"}
+{"prediction": "PER: Oshiomhole $$ DATE: n'af\u1ecd 2008 $$ ORG: AC"}
+{"prediction": "PER: Oserheimen Osunbor $$ ORG: PDP"}
+{"prediction": "PER: Rauf Aregbesola $$ LOC: \u1eccs\u1ee5n steeti $$ DATE: n'af\u1ecd 2007"}
+{"prediction": "PER: Olagunsoye Oyinlola"}
+{"prediction": "PER: Rotimi Amaechi $$ DATE: af\u1ecd 2007"}
+{"prediction": "ORG: PDP"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Atiku"}
+{"prediction": ""}
+{"prediction": "PER: Mbuze $$ LOC: n'\u1ee4m\u1ee5aw\u1ee5l\u1ee5"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Mbaka $$ PER: Oyedepo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Aba $$ LOC: Ab\u1ecba steeti $$ ORG: Holy Ghost searchlight and deliverance ministry"}
+{"prediction": ""}
+{"prediction": "DATE: n'\u1ecdnwa Maach\u1ecb a"}
+{"prediction": "PER: Chukwuemeka Ohanaemere"}
+{"prediction": "PER: Odumejeje $$ ORG: Mountain Of Holy Ghost Intervention And Deliverance Ministry $$ LOC: n'\u1eccnicha $$ LOC: Anambara"}
+{"prediction": ""}
+{"prediction": "ORG: Nollywood"}
+{"prediction": "PER: Ebelenna Chukwu"}
+{"prediction": "PER: Ebelenna $$ LOC: \u1eccn\u1ecbcha $$ LOC: Anambara steeti"}
+{"prediction": "ORG: Jehovah The Mightier Than All Prophetic Church"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Anambra $$ PER: Don Adinuba"}
+{"prediction": "LOC: Edo"}
+{"prediction": "LOC: Ama $$ LOC: 'Esan South-East' $$ LOC: Edo"}
+{"prediction": "PER: Kontongs Bello $$ LOC: 'Agbede Division' $$ PER: Iredia Ogiata"}
+{"prediction": "LOC: n'Ubiaja $$ LOC: 'Esan South-East' $$ LOC: Ama"}
+{"prediction": ""}
+{"prediction": "PER: Phillip Ogbadu"}
+{"prediction": ""}
+{"prediction": "LOC: Ogun Steeti $$ ORG: NNPC $$ DATE: af\u1ecd 2019"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb T\u1ecdzdee $$ ORG: NNPC $$ LOC: Abuja"}
+{"prediction": "ORG: NNPC $$ PER: Mele Kyari $$ LOC: Naijiria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Dangote $$ PER: Aliko Dangote"}
+{"prediction": "ORG: NNPC"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: \u1ecdba akw\u1ee5kw\u1ecd steeti Anambra $$ ORG: \u1ecdba akw\u1ee5kw\u1ecd \u1ecckamm\u1ee5ta Kenneth Dike $$ LOC: n'Awka $$ DATE: ah\u1ecd 2019"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ ORG: 'Progressive Anambra Youths $$ ORG: PAY $$ LOC: n'Awka $$ LOC: Anambra"}
+{"prediction": "ORG: mahadum Nnamd\u1ecb Azikiwe $$ LOC: n'Awka $$ PER: Obi\u1ecdra Nwosu"}
+{"prediction": ""}
+{"prediction": "DATE: Izu-\u1ee5ka \u1ecdba akw\u1ee5kw\u1ecd $$ LOC: Nigeria"}
+{"prediction": "ORG: Student Association of Nigeria in Diaspora $$ PER: Olalekan Oshunkoya $$ LOC: London $$ LOC: Nigeria $$ LOC: London $$ LOC: Nigerian House"}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: MSNBC $$ LOC: Pakistan"}
+{"prediction": "DATE: Fra\u1ecbdee $$ LOC: Islamabad $$ LOC: Pakistan"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd 2021 $$ LOC: Awka"}
+{"prediction": "ORG: Micheal and All Angel's Church $$ LOC: Nawfia' $$ LOC: Njik\u1ecdka"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Fra\u1ecbdee $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka"}
+{"prediction": "ORG: ASHIA $$ ORG: ASHIA"}
+{"prediction": "LOC: Ogun $$ PER: Blessing Ebuneku Agoro"}
+{"prediction": "PER: Obian\u1ecd $$ PER: Uzuegbuna Okagbue"}
+{"prediction": ""}
+{"prediction": "LOC: Ogun $$ PER: Abimbola Oyeyemi"}
+{"prediction": "PER: Semilore Agoro $$ PER: Deborah Agoro"}
+{"prediction": "PER: Oyeyemi $$ PER: Oluwaseyi Agoro $$ LOC: 'Redemption Camp Divisional Headquarters'"}
+{"prediction": "LOC: Lagos $$ PER: Humphrey Olumakaiye"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "PER: Oyeyemi $$ PER: Alabi Akinjide $$ PER: Blessing"}
+{"prediction": ""}
+{"prediction": "LOC: Awka $$ LOC: Niger $$ PER: Alexander Chibuzor Ibezim $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "PER: Oyeyemi $$ PER: Kolawole Imoleayo"}
+{"prediction": ""}
+{"prediction": "PER: Edward Awolowo Ajogun $$ ORG: 'Anti-Human Trafficking and Child Labour Unit' nke 'State Criminal Investigations and Intelligence Department $$ ORG: SCIID"}
+{"prediction": "LOC: Awka $$ PER: Paulinus Ezeokafor $$ LOC: Nnewi $$ PER: Kenneth Orizu $$ PER: Obinna Etele"}
+{"prediction": ""}
+{"prediction": "ORG: 'Nigeria Security and Civil Defence Corps $$ ORG: 'NSCDC' $$ LOC: Anambra"}
+{"prediction": "PER: Obian\u1ecd $$ DATE: ah\u1ecd 2021 $$ LOC: Awka"}
+{"prediction": "ORG: Micheal and All Angel's Church $$ LOC: Nawfia' $$ LOC: Njik\u1ecdka"}
+{"prediction": "PER: Igbo Thomas $$ LOC: Okolo An\u1ecb $$ LOC: Igbo Etiti $$ LOC: Enugu $$ LOC: Enu\u1ecdj\u1ecb $$ LOC: n'Enugwu-Ukwu $$ LOC: Njik\u1ecdka $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Lagos $$ PER: Humphrey Olumakaiye"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "ORG: NSCDC"}
+{"prediction": "ORG: NSCDC $$ LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": "LOC: Awka $$ PER: Paulinus Ezeokafor $$ LOC: Nnewi $$ PER: Kenneth Orizu $$ PER: Obinna Etele"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: Awka"}
+{"prediction": "PER: Toochukwu"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Kuryas"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ DATE: n'\u1ee5b\u1ecdch\u1ecb Tuuzdee $$ PER: Willie Obian\u1ecd"}
+{"prediction": "LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": "DATE: N'izu\u1ee5ka gara aga"}
+{"prediction": "DATE: taa"}
+{"prediction": "DATE: n'izu\u1ee5ka gara aga"}
+{"prediction": ""}
+{"prediction": "PER: Willie Obian\u1ecd $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Har\u1ee5na M\u1ecdhammed $$ PER: John Abang"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Ns\u1ecdala"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: John Abang $$ DATE: ekeresimeesi a"}
+{"prediction": ""}
+{"prediction": "PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Oled\u1ecbmma Macdowal"}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Chike Ike"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Otu S\u1ee5wakwa Igbo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: n'Anambra $$ ORG: Otu S\u1ee5wakwa Igbo $$ ORG: Otu S\u1ee5wakwa Igbo"}
+{"prediction": "PER: Pita Ejiofor $$ ORG: BBC"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "ORG: BBC $$ DATE: n'ah\u1ecd 1957 $$ ORG: BBC"}
+{"prediction": "ORG: BBC"}
+{"prediction": "LOC: Mango $$ LOC: n'Udoka"}
+{"prediction": "DATE: taa $$ ORG: BBC"}
+{"prediction": ""}
+{"prediction": "ORG: BBC"}
+{"prediction": "ORG: BBC $$ ORG: Otu S\u1ee5wakwa Igbo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Otu S\u1ee5wakwa Igbo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Imo steeti"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Methuselah"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'\u1ee4kp\u1ecdr $$ LOC: Nnewi South $$ LOC: \u1ee4kp\u1ecdr $$ DATE: ah\u1ecd 2019"}
+{"prediction": "LOC: \u1ee4kp\u1ecdr"}
+{"prediction": ""}
+{"prediction": "LOC: \u1ee4kp\u1ecdr"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: 'Idemili Cultural Centre' $$ LOC: n'\u1ee4m\u1ee5owelle Ag\u1ee5l\u1ee5 $$ LOC: Ana\u1ecdcha $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Ralph Ndidi Obi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: \u1ee4m\u1ee5oji $$ LOC: Idemili North $$ LOC: Anambra $$ LOC: \u1ee4z\u1ecdiyi"}
+{"prediction": "PER: Mbanefo $$ PER: Emmanuel Ume"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: n'ah\u1ecd \u1ecdz\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Awka $$ LOC: Nnewi $$ LOC: Nnobi $$ LOC: n'Ogidi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: n'\u1ecdnwa nke asat\u1ecd $$ DATE: n'\u1ecdnwa nke iteghete $$ DATE: \u1ee5t\u1ee5t\u1ee5"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: udummiri"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: Michigan $$ LOC: U.S.A $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: \u1ee4m\u1ee5oji $$ LOC: Idemili North $$ LOC: Anambra $$ DATE: ah\u1ecd 2020"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "DATE: ehihie"}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Obidiegwu $$ LOC: Atan\u1ecb $$ LOC: \u1eccgbaru $$ LOC: \u1eccrl\u1ee5 $$ LOC: Ihiala $$ LOC: Nneni $$ LOC: Adazi-Ani"}
+{"prediction": "LOC: Ana\u1ecdcha"}
+{"prediction": "LOC: \u1eccgbaru $$ PER: Arinzechukwu Awogu $$ LOC: Anambra"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "DATE: taa $$ LOC: Anambra"}
+{"prediction": "PER: Chike Maduekwe $$ ORG: 'Anambra State Physical Planning Board $$ ORG: ANSPPB"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Ebelechukwu Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd $$ ORG: 'Caring Family Enhancement"}
+{"prediction": "LOC: \u1eccgbaru $$ LOC: 'Onitsha North'"}
+{"prediction": ""}
+{"prediction": "LOC: Ogbaru $$ PER: Arinze Awogu $$ PER: Obian\u1ecd"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ LOC: Nnewi $$ LOC: 'Nnewi North'"}
+{"prediction": "PER: Okey Chidolue"}
+{"prediction": "ORG: 'Anambra State Health Insurance Scheme $$ ORG: ASHIA"}
+{"prediction": ""}
+{"prediction": "PER: Chidolue"}
+{"prediction": ""}
+{"prediction": "LOC: n'\u1eccnich\u1ecb"}
+{"prediction": "ORG: FRSC $$ LOC: Anambra $$ PER: Andrew Kumapayi"}
+{"prediction": "LOC: Owerre-Ezukala $$ DATE: ah\u1ecd 2020"}
+{"prediction": "ORG: Innoson $$ LOC: n'Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Amawb\u1ecba $$ LOC: USA"}
+{"prediction": "LOC: Amawb\u1ecba $$ LOC: USA $$ LOC: Amawb\u1ecba"}
+{"prediction": ""}
+{"prediction": "ORG: 'Amawbia Town Union' $$ PER: Ebele Nwufo"}
+{"prediction": "PER: Nwufo $$ PER: Chukwukadibia Nathaniel"}
+{"prediction": ""}
+{"prediction": "PER: Matthew Enukorah $$ PER: Chinyere Okechukwu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: 'Anambra State Primary Health Care Development Agency $$ ORG: ASPHCDA $$ PER: Chioma Ezenyimulu $$ LOC: n'\u1eccka $$ LOC: Awka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: udummiri"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Anambra $$ ORG: 'United Anambra Youth Assembly $$ ORG: U-AYA $$ ORG: 'United Anambra Women Assembly $$ ORG: U-AWA $$ LOC: Anambra"}
+{"prediction": "LOC: n'ogige \u1ecckamm\u1ee5ta 'Dora Akunyili Women Development Centre' $$ LOC: n'Awka"}
+{"prediction": "ORG: 'Anambra State Signage and Advertisement Agency' $$ PER: Jude Emecheta $$ LOC: Anambra $$ LOC: Anambra $$ DATE: n'ah\u1ecd na-ab\u1ecba ab\u1ecba"}
+{"prediction": ""}
+{"prediction": "ORG: 'All4One Friends Club of Nigeria $$ ORG: Mahadum Nnamd\u1ecb Azikiwe $$ LOC: Nnewi $$ LOC: 'Nnewi North' $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "DATE: n'agbata \u1ecdnwa Jula\u1ecb ah\u1ecd gara aga ruo \u1ecdnwa ekeresimeesi"}
+{"prediction": "LOC: Owerre-Ezukala $$ LOC: Orumba South $$ LOC: Anambra $$ DATE: ah\u1ecd 2019"}
+{"prediction": "LOC: Orumba South $$ PER: Raymond Onyegu $$ PER: Ogechukwu Nd\u1ee5che"}
+{"prediction": "LOC: Ihiala $$ LOC: Anambra $$ DATE: ah\u1ecd 2020"}
+{"prediction": "LOC: Ihiala"}
+{"prediction": ""}
+{"prediction": "LOC: Ihiala $$ PER: Okechukwu Chukwu $$ PER: Okechukwu Chukwu"}
+{"prediction": "DATE: taa $$ LOC: Nteje Ab\u1ecdg\u1ee5 $$ LOC: Oyi $$ LOC: Anambra"}
+{"prediction": "LOC: Nteje"}
+{"prediction": "PER: Berneth Chinweze $$ LOC: Nteje"}
+{"prediction": "LOC: Alor"}
+{"prediction": "ORG: IPOB"}
+{"prediction": "PER: Okwuchukwu Ezekwesili $$ LOC: Anambra"}
+{"prediction": "PER: Kenneth Chiemezie"}
+{"prediction": "PER: Umar"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Peter Umead\u1ecb"}
+{"prediction": "PER: Peter Umead\u1ecb $$ LOC: Anambra $$ LOC: n'Ag\u1ee5 Ukwu Nri $$ LOC: Ana\u1ecdcha"}
+{"prediction": "PER: Loretta Aniagolu"}
+{"prediction": "LOC: Enugwu-Ag\u1ee5leri $$ LOC: 'Anambra East' $$ LOC: Anambra"}
+{"prediction": "PER: Chukwuemeka Eri"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Umead\u1ecb $$ PER: J.P. Clark $$ PER: Awoonor-Williams"}
+{"prediction": "PER: Krydz Ikwuemesi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Aguleri $$ PER: Michael Idigo $$ LOC: Eziagulu Otu Aguleri $$ PER: Lawrence Nwofia $$ LOC: Mkpunando Aguleri $$ PER: Johnson Mbanefo"}
+{"prediction": "PER: Eri"}
+{"prediction": "PER: Bongos Ikwue $$ PER: Mustapha $$ PER: Christopher $$ PER: Ugochukwu"}
+{"prediction": ""}
+{"prediction": "PER: Izunna Okafor $$ PER: Akpos Adesi $$ PER: Chimaobi Okolo $$ PER: Ugochukwu Ugwu $$ PER: Ugochukwu Ugwu"}
+{"prediction": "ORG: Ojiana \u1ee4n\u1ecd Aguleri $$ PER: Okechukwu Dibua $$ LOC: 'Anambra East' $$ PER: Obi Nweke $$ ORG: 'Aguleri National Youth Association $$ ORG: ANYA $$ PER: Nnamdi Ikeli-Adimora"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: mgbede"}
+{"prediction": "DATE: ah\u1ecd iri gara aga"}
+{"prediction": "PER: Ibezim"}
+{"prediction": ""}
+{"prediction": "ORG: IPOB"}
+{"prediction": "PER: Dim Chukwuemeka \u1eccd\u1ee5megwu Ojukwu $$ PER: Bianca Ojukwu $$ ORG: IPOB $$ PER: Nnamd\u1ecb Kan\u1ee5 $$ LOC: Anambra"}
+{"prediction": "LOC: n'Awka $$ DATE: \u1ee5b\u1ecdch\u1ecb T\u1ecd\u1ecdzdee $$ ORG: 'Akp\u1ecdkuodike Fan Club' $$ DATE: n'onwa N\u1ecdvemba"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Ag\u1ee5leri $$ LOC: 'Anambra East' $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: 'Anambra East $$ PER: Chinedu Obidigwe $$ LOC: Ag\u1ee5leri"}
+{"prediction": ""}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Ikolo Ag\u1ee5leri"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ LOC: n'Amawb\u1ecba"}
+{"prediction": "PER: Danduara Mustapha $$ LOC: Kast\u1ecbna $$ DATE: n'abal\u1ecb iri na ise nke \u1ecdnwa Jen\u1ee5war\u1ecb ah\u1ecd 1963 $$ DATE: n'abal\u1ecb at\u1ecd nke \u1ecdnwa Maach\u1ecb n'ah\u1ecd 1990"}
+{"prediction": "DATE: izu\u1ee5ka ab\u1ee5\u1ecd"}
+{"prediction": ""}
+{"prediction": "PER: Frank Anthony Igboka $$ LOC: Nimo $$ LOC: Njik\u1ecdka $$ LOC: Anambra"}
+{"prediction": "PER: Mmili $$ DATE: \u1ee5b\u1ecdch\u1ecb Tuuzdee $$ LOC: n'ah\u1ecba Oy\u00e8 Nimo"}
+{"prediction": "PER: Har\u1ee5na M\u1ecdhamed $$ DATE: nkeji iri na asat\u1ecd gaf\u00e8\u00e9 elekere asat\u1ecd nke anyas\u1ecb"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: C. Don Ad\u1ecbn\u1ee5ba"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Frank Anthony Igboka $$ LOC: Anambra $$ LOC: Njik\u1ecdka $$ DATE: n'ah\u1ecd 1999 ruo n'ah\u1ecd 2003"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Nzube Udegbu $$ LOC: n'\u1eccn\u1ecbtsha $$ DATE: n'abal\u1ecb an\u1ecd nke \u1ecdnwa \u1eccg\u1ecdst\u1ee5 a"}
+{"prediction": "DATE: taa"}
+{"prediction": "LOC: n'Awka"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb \u1ecdz\u1ecd"}
+{"prediction": ""}
+{"prediction": "LOC: Abambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "LOC: Nimo $$ PER: Anthony Igboka $$ LOC: Nimo $$ LOC: Njik\u1ecdka"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ ORG: 'Anambra State Security Council' $$ DATE: \u1ecdnwa \u1eccg\u1ecdst\u1ee5 ah\u1ecd a"}
+{"prediction": "PER: Willie Obian\u1ecd $$ LOC: n'Amawb\u1ecba $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Enugwu $$ DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdndee $$ PER: Malachy Asadu"}
+{"prediction": "PER: Asadu $$ LOC: Nsukka $$ LOC: Imilike $$ LOC: Nsukka $$ ORG: Nnukwu \u1ee4l\u1ecd\u1ee5ka Theresa d\u1ecb Ns\u1ecd $$ LOC: Nsukka"}
+{"prediction": "PER: Ebere Amaraizu"}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: John Abang $$ LOC: n'Amawb\u1ecba"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ DATE: ekeresimeesi a"}
+{"prediction": "LOC: Nigeria $$ PER: Celestine Okoye $$ PER: Willie Obian\u1ecd $$ LOC: n'Amawb\u1ecba"}
+{"prediction": "PER: Okoye $$ LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ DATE: ekeresimesi a"}
+{"prediction": "LOC: Anambra $$ PER: John Abang $$ PER: Obian\u1ecd"}
+{"prediction": "LOC: Africa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: n'\u1eccn\u1ecbtsha"}
+{"prediction": "ORG: 'Focus Initiative Against Touting $$ ORG: FIAT"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "PER: Victoria Nwoye $$ LOC: n'Abuja $$ PER: Samuel An\u1ecbmonye"}
+{"prediction": "LOC: n'\u1eccn\u1ecbtsha"}
+{"prediction": "DATE: ah\u1ecd 1991 $$ LOC: Anambra"}
+{"prediction": "PER: Chigozie Amahak\u1ee5 $$ PER: Victor Al\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ DATE: \u1ee5nyaah\u1ee5 $$ LOC: n'Awka"}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Anambra"}
+{"prediction": "PER: Har\u1ee5na M\u1ecdhammed $$ LOC: n'Awka $$ PER: John Abang"}
+{"prediction": "DATE: n'abal\u1ecb asat\u1ecd nke \u1ecdnwa Feb\u1ee5war\u1ecb $$ LOC: Anambra $$ LOC: n'Ogidi $$ LOC: Idemili North"}
+{"prediction": ""}
+{"prediction": "PER: M\u1ecdhammed"}
+{"prediction": ""}
+{"prediction": "LOC: Enugu $$ LOC: Ebonyi $$ PER: David \u1ee4mah\u1ecb $$ PER: Ifeany\u1ecb Ugwuany\u1ecb $$ LOC: Enugu $$ PER: Okezie Ikpeaz\u1ee5 $$ LOC: Ab\u1ecba $$ LOC: Anambra $$ PER: Nkem Okeke"}
+{"prediction": "PER: Willie Obian\u1ecd"}
+{"prediction": "ORG: \u1ecdd\u1ee5 \u1ee5gb\u1ecdelu mba \u1ee5wa Akan\u1ee5 \u1ecab\u1ecbam $$ LOC: n'Enugu $$ DATE: n'abal\u1ecb iri na at\u1ecd nke \u1ecdnwa Maach\u1ecb ah\u1ecd a"}
+{"prediction": "ORG: \u1ecchaneze Nd\u1ecb Igbo $$ PER: \u1ee4mah\u1ecb"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: John Abanga"}
+{"prediction": "DATE: taa"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ LOC: Nigeria"}
+{"prediction": "LOC: n'Awka"}
+{"prediction": "PER: M\u1ecdhammed"}
+{"prediction": "ORG: 'Puff Adder' $$ ORG: 'Special Anti Robbery Squad $$ ORG: SARS $$ DATE: n'abal\u1ecb iteghete nke \u1ecdnwa Maach\u1ecb a $$ PER: Angus Chukwebuka Nwankw\u1ecd $$ PER: Chidiebere Omeyi $$ LOC: Nanka $$ LOC: Orumbra North"}
+{"prediction": ""}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "LOC: Nigeria $$ ORG: 'National Drug Law Enforcement Agency $$ ORG: NDLEA' $$ LOC: Abuja"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Femi Babafemi $$ LOC: n'Abuja $$ LOC: Nigeria"}
+{"prediction": "ORG: NDLEA"}
+{"prediction": ""}
+{"prediction": "LOC: Gudu $$ LOC: Kubwa $$ LOC: Lokogoma $$ LOC: Apo $$ LOC: Damangazo $$ PER: Mohammed Malami Sokoto"}
+{"prediction": ""}
+{"prediction": "ORG: NDLEA $$ LOC: Rivers $$ PER: Sanusi Abdullahi"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "DATE: taa $$ LOC: Delta $$ PER: \u1ecckada"}
+{"prediction": "PER: Michael Ovie $$ LOC: \u1eccghara $$ LOC: 'Ethiope West'"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee $$ LOC: n'Abeokuta $$ LOC: Ogun"}
+{"prediction": "PER: Gbenga Daniel"}
+{"prediction": ""}
+{"prediction": "PER: Osinubi"}
+{"prediction": ""}
+{"prediction": "DATE: izu\u1ee5ka gara aga $$ LOC: n'Abeokuta"}
+{"prediction": ""}
+{"prediction": "ORG: FRSC $$ LOC: Anambra"}
+{"prediction": "ORG: FRSC $$ LOC: Anambra $$ PER: Adeoye Irelewuyi $$ DATE: ah\u1ecd 2021 $$ LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": "PER: Mbanefo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: FRSC"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka $$ DATE: \u1ecdkara gaa elekere an\u1ecd nke mgbe, wee ruo n'ihe d\u1ecb ka elekere isii nke mgbede"}
+{"prediction": "DATE: mgbede"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'\u1eccz\u1ee5b\u1ee5l\u1ee5 $$ PER: Jude \u1eccn\u1ecdnuju"}
+{"prediction": "PER: Ikenga Toochukwu $$ DATE: mgbede"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka $$ DATE: \u1ecdkara gaa elekere an\u1ecd nke mgbede, wee ruo n'ihe d\u1ecb ka elekere isii nke mgbede"}
+{"prediction": "DATE: mgbede"}
+{"prediction": "LOC: n'\u1eccz\u1ee5b\u1ee5l\u1ee5 $$ PER: Jude \u1eccn\u1ecdnuju"}
+{"prediction": "PER: Ikenga Toochukwu $$ DATE: mgbede"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb ise $$ LOC: n'Awka"}
+{"prediction": "ORG: 'Anambra State Primary Health Care Development Agency' $$ ORG: 'National Primary Health Care Development Agency'"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: 'National Emergency Maternal and Child Health Intervention Centre' $$ PER: Valentine Obiejekwu $$ LOC: Anambra $$ PER: Linus Nwankwo"}
+{"prediction": ""}
+{"prediction": "LOC: Nkp\u1ecdr $$ LOC: 'Idemili North' $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: \u1eccn\u1ecbtsha"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Ikenga Toochukwu"}
+{"prediction": "DATE: n'elekere iri na otu nke \u1ee5t\u1ee5t\u1ee5 $$ LOC: Nkp\u1ecdr"}
+{"prediction": "LOC: n'Awka $$ LOC: Anambra"}
+{"prediction": "LOC: n'Amawbia $$ LOC: Enugu $$ LOC: \u1eccn\u1ecbtsha"}
+{"prediction": ""}
+{"prediction": "LOC: n'Awka $$ LOC: Anambra $$ DATE: ah\u1ecd 2021"}
+{"prediction": "ORG: 'Gist AGRICA' $$ ORG: 'Medical Honey Bees Farm Nigeria'"}
+{"prediction": "ORG: 'United Nations $$ ORG: UN"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: n'oge udummiri"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: Nigeria"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: n'Awka"}
+{"prediction": "PER: Michael Okonkwo"}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ ORG: 'National Drug Law Enforcement Agency $$ ORG: NDLEA' $$ PER: Jane Chioma Ofoma"}
+{"prediction": "ORG: NDLEA $$ LOC: Edo $$ LOC: Auchi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: NDLEA $$ LOC: Edo $$ PER: Emmanuel Ehiramhen $$ LOC: 'No"}
+{"prediction": "LOC: Ekpoma'"}
+{"prediction": "PER: Basirat Musa $$ LOC: Ilorin"}
+{"prediction": "PER: Ibrahim $$ LOC: Chibok $$ LOC: Lagos $$ DATE: n'\u1ecdnwa \u1ecck\u1ee5toba 2020"}
+{"prediction": "LOC: Nsukka $$ LOC: Enugu $$ LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Ag\u1ee5leri $$ ORG: \u1ecdd\u1ee5 \u1ee5gb\u1ecdelu mba \u1ee5wa Anambra n'\u1ee4m\u1ee5eri $$ LOC: 'Anambra East'"}
+{"prediction": "PER: Obian\u1ecd $$ DATE: \u1ecdt\u1ee5t\u1ee5 ah\u1ecd gara aga"}
+{"prediction": ""}
+{"prediction": "LOC: n'Amak\u1ee5 $$ LOC: Awka"}
+{"prediction": ""}
+{"prediction": "ORG: 'Sir Emeka \u1eccff\u1ecdr Foundation' $$ PER: Chris Ezike $$ PER: Emeka \u1eccff\u1ecdr"}
+{"prediction": "PER: Nwankw\u1ecd"}
+{"prediction": "ORG: 'Sir Emeka \u1eccff\u1ecdr Foundation'"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: n'\u1eccn\u1ecbtsha $$ LOC: n'ah\u1ecba eke Awka"}
+{"prediction": "PER: Vincent Okpala"}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "LOC: Anambra $$ ORG: 'Anambra State Markets Amalgamated Traders Associaton' $$ ORG: ASMATA $$ PER: Ikechukwu Ekwegbal\u1ee5"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'\u1eccn\u1ecbtsha $$ LOC: Anambra $$ LOC: B/H Housing Estate Fegge"}
+{"prediction": "PER: Isidore Uzoatu $$ ORG: Ka \u1ecc D\u1ecb Taa"}
+{"prediction": ""}
+{"prediction": "PER: \u1ee4z\u1ecdat\u1ee5"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Ka \u1ecc D\u1ecb Taa $$ ORG: Anambra State Clear Drainage and Forest Preservation Agency $$ PER: Chido Obidiegwu"}
+{"prediction": "PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Ifite-\u1eccgwar\u1ecb"}
+{"prediction": "LOC: \u1eccm\u1ecdr $$ LOC: \u1ee4m\u1ee5mbo $$ LOC: \u1ee4m\u1ee5erum $$ LOC: Anak\u1ee5 $$ LOC: \u1ecagbakw\u1ee5 $$ LOC: \u1ee4m\u1ee5eje $$ LOC: \u1eccmas\u1ecb"}
+{"prediction": "LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Anambra $$ PER: Ndidi Mezue $$ LOC: n'Awka"}
+{"prediction": "LOC: n'Awka $$ LOC: n'Aroma $$ LOC: n'Awka"}
+{"prediction": "LOC: Nteje $$ LOC: Oyi"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Vincent Okpala"}
+{"prediction": "LOC: n'Awka"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "DATE: \u1ee4b\u1ecdch\u1ecb \u1ecbba \u1ecdchananya na mba \u1ee5wa $$ DATE: n'abal\u1ecb iri ab\u1ee5\u1ecd na asat\u1ecd nke \u1ecdnwa Jula\u1ecb ah\u1ecd \u1ecdb\u1ee5la $$ ORG: \u1ee5l\u1ecd\u1ecdr\u1ee5 ah\u1ee5ike mba \u1ee5wa 'World Health Organisation'"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ LOC: Otu\u1ecdcha"}
+{"prediction": "ORG: 'European Union'"}
+{"prediction": "LOC: 'Anambra East' $$ PER: Obiano $$ LOC: Aguleri $$ LOC: Umueri $$ LOC: Umu-Oba Anam"}
+{"prediction": "LOC: 'Anambra East' $$ PER: Obi Nweke $$ PER: Obian\u1ecd"}
+{"prediction": "ORG: 'Marcel Ofomata Foundation'"}
+{"prediction": "ORG: 'Agulu Primary Health Centre' $$ LOC: n'Ag\u1ee5l\u1ee5 $$ LOC: Ana\u1ecdcha"}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Ekwulobia $$ LOC: Igboukwu $$ LOC: Uga $$ LOC: Isuofia"}
+{"prediction": ""}
+{"prediction": "DATE: n'isi \u1ecbgw\u1ee5cha izu\u1ee5ka gara aga $$ LOC: Amichi $$ DATE: ah\u1ecd 2021"}
+{"prediction": ""}
+{"prediction": "ORG: Andrew's Anglican Church $$ LOC: Ebenator' $$ LOC: 'Nnewi South' $$ LOC: Anambra $$ DATE: n'abal\u1ecb ab\u1ee5\u1ecd nke \u1ecdnwa Juunu a wee ruo n'abal\u1ecb isii, b\u1ee5 \u1ee5b\u1ecdch\u1ecb \u1ee5ka"}
+{"prediction": "DATE: ah\u1ecd a $$ LOC: Nigeria"}
+{"prediction": "LOC: Ag\u1ee5ata $$ PER: Samuel Ezeofor"}
+{"prediction": "ORG: 'Catechist Gabriel Ezekwo Memorial Chapel $$ ORG: Umuchu Unity Centre'"}
+{"prediction": "ORG: Thomas Anglican Church $$ LOC: Umuchu' $$ LOC: Ag\u1ee5ata $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Samuel Ezekwo $$ PER: Ejiofor Umegbogu $$ PER: Gabriel Ezekwo"}
+{"prediction": ""}
+{"prediction": "LOC: Niger $$ PER: Owen Nwokolo $$ DATE: ah\u1ecd 2021"}
+{"prediction": ""}
+{"prediction": "ORG: John's Anglican Church' $$ LOC: Eziowelle $$ LOC: 'Idemili North' $$ LOC: Anambra"}
+{"prediction": "LOC: Kabba $$ PER: Stephen Akobe"}
+{"prediction": "LOC: Niger $$ LOC: Awka $$ PER: Alexander Ibezim $$ DATE: ah\u1ecd a"}
+{"prediction": ""}
+{"prediction": "PER: Benjamin O. Njelita"}
+{"prediction": "PER: John I.C. Meludu $$ PER: Kenneth N. Ejeckam $$ PER: Alexander N.C. Onubiyi"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: n'Enugwu-Ukwu"}
+{"prediction": "LOC: Njik\u1ecdka"}
+{"prediction": "ORG: ASHIA $$ PER: Simeon Onyemaechi"}
+{"prediction": "LOC: Venezuela $$ PER: Hugo Chavez"}
+{"prediction": "DATE: taa b\u1ee5 Tuzdee"}
+{"prediction": ""}
+{"prediction": "ORG: ASHIA"}
+{"prediction": ""}
+{"prediction": "PER: Nicholas Maduro $$ DATE: taa $$ PER: Chavez $$ DATE: elekere an\u1ecd n\"\u1ecdkara, nke mgbede"}
+{"prediction": "PER: William Onwuocha $$ ORG: ASHIA $$ LOC: Anambra"}
+{"prediction": "PER: Vincent Okpala"}
+{"prediction": "PER: Chavez"}
+{"prediction": ""}
+{"prediction": "DATE: Taa $$ LOC: Venezuela"}
+{"prediction": "LOC: Boston $$ DATE: mkp\u1ee5r\u1ee5 abal\u1ecb an\u1ecd ab\u1ecbago"}
+{"prediction": "DATE: abal\u1ecb ise gara aga $$ PER: Tamerlan Tsarnaev $$ PER: Dzhokhar Tsarnaev $$ LOC: Boston"}
+{"prediction": "ORG: FBI"}
+{"prediction": "DATE: N'abal\u1ecb nwanne \u1ee5nyah\u1ee5 $$ LOC: Watertown"}
+{"prediction": "PER: Sean Collier $$ ORG: Massachusetts Institute of Technology $$ ORG: MIT $$ PER: Richard Donahue"}
+{"prediction": ""}
+{"prediction": "PER: Dzhokhar Tsarnaev"}
+{"prediction": "LOC: Boston"}
+{"prediction": "DATE: N'oge uhuruchi $$ PER: Dzhokhar"}
+{"prediction": ""}
+{"prediction": "PER: Dzhokhar"}
+{"prediction": "LOC: Boston"}
+{"prediction": "ORG: Royal Canadian Mounted Police $$ ORG: RCMP $$ LOC: Toronto"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdndee $$ PER: James Malizia $$ PER: Chiheb Esseghaier $$ PER: Raed Jaser"}
+{"prediction": "PER: Chiheb $$ LOC: Montreal $$ PER: Raed $$ LOC: Toronto"}
+{"prediction": "ORG: Alkaida $$ LOC: Iran $$ LOC: Toronto $$ LOC: New York"}
+{"prediction": "DATE: Taa b\u1ee5 Tuzdee $$ PER: Chihed $$ PER: Raed $$ LOC: Toronto"}
+{"prediction": "LOC: Toronto $$ DATE: n'abal\u1ecb 23 nke \u1ecdnwa Mee"}
+{"prediction": "LOC: Boston $$ LOC: Massachusetts $$ LOC: Amer\u1ecbka"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdndee $$ LOC: Boston $$ LOC: Boston"}
+{"prediction": "DATE: M\u1ecdndee $$ ORG: FBI"}
+{"prediction": "DATE: \u1ee4nyah\u1ee5"}
+{"prediction": ""}
+{"prediction": "ORG: \u1ee5l\u1ecd \u1ecdgw\u1ee5 Boston"}
+{"prediction": "ORG: FBI"}
+{"prediction": ""}
+{"prediction": "DATE: Taa b\u1ee5 Nwenezdee"}
+{"prediction": "PER: Michael Adebolajo $$ LOC: Britain $$ LOC: Woolwich $$ LOC: Kenya $$ DATE: n'af\u1ecd 2010"}
+{"prediction": "LOC: Somali $$ ORG: al-Shabab $$ LOC: Somali"}
+{"prediction": "LOC: Kenya"}
+{"prediction": "LOC: Syria"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Bashar Al-Assad"}
+{"prediction": "DATE: nkeji 20"}
+{"prediction": "PER: Michael"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Al-Assad"}
+{"prediction": "DATE: Taa b\u1ee5 s\u1ecdndee $$ LOC: Amer\u1ecbka $$ LOC: Afghanistan $$ LOC: Amer\u1ecbka"}
+{"prediction": "LOC: Amer\u1ecbka $$ LOC: Amer\u1ecbka"}
+{"prediction": "LOC: Malesh\u1ecba $$ PER: Najib Razak"}
+{"prediction": "ORG: Boeing $$ LOC: Maleshia $$ DATE: otu izu \u1ee5ka"}
+{"prediction": "PER: Najib Razak"}
+{"prediction": "LOC: Cha\u1ecbna"}
+{"prediction": "DATE: taa"}
+{"prediction": "LOC: Amer\u1ecbka $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Umar $$ LOC: Amer\u1ecbka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Am\u1ecbr\u1ecbka $$ DATE: \u1ee5b\u1ecdch\u1ecb ah\u1ecba ukwu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Japan $$ DATE: \u1ee5b\u1ecdch\u1ecb Fra\u1ecbdee"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Japan"}
+{"prediction": ""}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ PER: Daniel Amokachi $$ ORG: JS Hercules $$ LOC: Finland"}
+{"prediction": "PER: Amokachi"}
+{"prediction": "PER: Amokachi $$ ORG: Super Eagles $$ ORG: Super Eagles $$ PER: Pekka Haaranen $$ ORG: JS Hercules"}
+{"prediction": "PER: Amokachi $$ ORG: Super Eagles $$ PER: Stehpen Keshi $$ LOC: Afr\u1ecbka $$ DATE: n'af\u1ecd 2013"}
+{"prediction": "PER: Amokachi $$ ORG: Super Eagles $$ DATE: n'af\u1ecd gara aga"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: T\u1ecdki $$ LOC: Briten $$ LOC: Belj\u1ecdm"}
+{"prediction": "PER: Amokachi $$ ORG: Everton $$ ORG: Besiktas"}
+{"prediction": "LOC: Nigeria $$ ORG: Super Eagles $$ LOC: Afr\u1ecbka"}
+{"prediction": "LOC: Nigeria $$ LOC: Zambia $$ LOC: Nigeria $$ PER: Emmanuel Emenike"}
+{"prediction": "PER: Emenike $$ PER: Obi Mikel $$ LOC: Nigeria"}
+{"prediction": "LOC: Nigeria $$ LOC: Nigeria $$ LOC: Zambia"}
+{"prediction": "LOC: Zambia"}
+{"prediction": "LOC: Nigeria $$ LOC: Zambia"}
+{"prediction": "ORG: Golden Eaglets $$ LOC: Na\u1ecbjiria $$ PER: Emmanuel Amunike"}
+{"prediction": "PER: Amunike $$ ORG: Golden Eaglets $$ ORG: FIFA $$ DATE: af\u1ecd 17 $$ LOC: Chile"}
+{"prediction": "DATE: \u1ee4nyaa $$ DATE: Tuzdee abal\u1ecb 18 nke \u1ecdnwa juunu $$ ORG: Super Eagles $$ LOC: Nigeria $$ LOC: Tahiti $$ LOC: Brazil"}
+{"prediction": "LOC: Brazil"}
+{"prediction": "LOC: n'ama egwuregwu Mineirao $$ LOC: Nigeria $$ LOC: Tahiti"}
+{"prediction": "DATE: Taa"}
+{"prediction": "DATE: Taa $$ DATE: abal\u1ecb mb\u1ee5 nke \u1ecdnwa jen\u1ee5war\u1ecb"}
+{"prediction": ""}
+{"prediction": "DATE: n'elekere 12 nke abal\u1ecb"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Amer\u1ecbka $$ DATE: n'isi \u1ee5t\u1ee5t\u1ee5 taa $$ LOC: New York"}
+{"prediction": "DATE: n'elekere 12 nke ime abal\u1ecb"}
+{"prediction": "DATE: elekere 12"}
+{"prediction": "DATE: af\u1ecd 2013 $$ LOC: New York"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: n'af\u1ecd 2013"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Joe Biden"}
+{"prediction": "LOC: Amer\u1ecbka"}
+{"prediction": ""}
+{"prediction": "PER: Mitt Romney $$ ORG: R\u1ecbp\u1ecdblikan"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Barack Obama $$ DATE: af\u1ecd an\u1ecd \u1ecdz\u1ecd"}
+{"prediction": "LOC: Amer\u1ecbka"}
+{"prediction": "LOC: R\u1ecbp\u1ecdbl\u1ecbkan $$ DATE: n'abal\u1ecb \u1ee5nyaa"}
+{"prediction": "DATE: af\u1ecd at\u1ecd na \u1ecdkara $$ LOC: Amer\u1ecbka $$ PER: Barack Obama $$ DATE: af\u1ecd an\u1ecd \u1ecdz\u1ecd"}
+{"prediction": "PER: Obama"}
+{"prediction": "PER: Mitt Romney $$ LOC: Massachussets $$ PER: Obama"}
+{"prediction": "PER: Obama $$ PER: Romney"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Obama $$ DATE: af\u1ecd an\u1ecd"}
+{"prediction": "LOC: Boston"}
+{"prediction": ""}
+{"prediction": "PER: Obama $$ PER: Romney"}
+{"prediction": "LOC: Amer\u1ecbka"}
+{"prediction": "PER: Cisse $$ LOC: Senegal $$ DATE: n'af\u1ecd 2002"}
+{"prediction": "DATE: \u1ecdnwa Jen\u1ee5war\u1ecb $$ LOC: Senegal $$ LOC: Afr\u1ecbka $$ LOC: Ikwet\u1ecdrial Gini"}
+{"prediction": "PER: Cisse $$ ORG: Paris St Germain"}
+{"prediction": "LOC: Montpellier $$ LOC: Frans $$ LOC: Briten"}
+{"prediction": "ORG: Birmingham City $$ ORG: Portmouth"}
+{"prediction": "PER: Romney $$ PER: Obama $$ DATE: n'abal\u1ecb 3 nke \u1ecdnwa \u1ecdk\u1ee5toba a"}
+{"prediction": "LOC: Canada $$ LOC: Hallandale $$ LOC: Florida"}
+{"prediction": "PER: David Pichosky $$ DATE: af\u1ecd 71 $$ PER: Rochelle Wise $$ DATE: af\u1ecd 66 $$ LOC: Hallandale $$ LOC: Miami $$ LOC: Fort Lauderdale"}
+{"prediction": "LOC: Canada $$ LOC: Hallandale $$ LOC: Florida"}
+{"prediction": "PER: David Pichosky $$ DATE: af\u1ecd 71 $$ PER: Rochelle Wise $$ DATE: af\u1ecd 66 $$ LOC: Hallandale $$ LOC: Miami $$ LOC: Fort Lauderdale"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb T\u1ecdzdee"}
+{"prediction": "PER: Chris Rogers $$ DATE: af\u1ecd 21"}
+{"prediction": "ORG: St. Albert $$ LOC: Alberta"}
+{"prediction": "ORG: University of Alberta"}
+{"prediction": "PER: Rogers"}
+{"prediction": ""}
+{"prediction": "PER: Rogers"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5z\u1ecd \u1ee5t\u1ee5t\u1ee5 taa b\u1ee5 abal\u1ecb mb\u1ee5 nke \u1ecdnwa jenuwar\u1ecb $$ LOC: Saskatoon $$ LOC: Kanada"}
+{"prediction": "LOC: 100 Block, Avenue O South"}
+{"prediction": ""}
+{"prediction": "ORG: Royal University"}
+{"prediction": ""}
+{"prediction": "LOC: Saskatoon"}
+{"prediction": ""}
+{"prediction": "LOC: n'Abuja $$ DATE: \u1ee5b\u1ecdch\u1ecb Nwenezdee $$ PER: Labaran Maku"}
+{"prediction": "PER: Maku $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Maku $$ LOC: Nigeria"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Barack Obama"}
+{"prediction": ""}
+{"prediction": "ORG: R\u1ecbp\u1ecdblikan $$ ORG: NRA $$ ORG: R\u1ecbp\u1ecdblikan"}
+{"prediction": ""}
+{"prediction": "PER: Obama $$ DATE: taa"}
+{"prediction": "ORG: Demokrat $$ PER: Obama"}
+{"prediction": "ORG: R\u1ecbp\u1ecdblikan $$ ORG: NRA $$ PER: Obama"}
+{"prediction": "LOC: Amer\u1ecbka $$ LOC: Newtown"}
+{"prediction": ""}
+{"prediction": "ORG: NRA $$ ORG: R\u1ecbp\u1ecdblikan"}
+{"prediction": "LOC: Amer\u1ecbka"}
+{"prediction": ""}
+{"prediction": "PER: Jonathan $$ LOC: Nigeria"}
+{"prediction": "LOC: Nigeria $$ PER: Goodluck Jonathan $$ ORG: CNN $$ DATE: \u1ee5nyaa b\u1ee5 abal\u1ecb 23 nke \u1ecdnwa Jen\u1ee5war\u1ecb"}
+{"prediction": "ORG: CNN $$ PER: Christiane Amanpour $$ PER: Jonathan $$ LOC: Nigeria"}
+{"prediction": "PER: Jonathan $$ ORG: Boko Haram $$ LOC: Nigeria"}
+{"prediction": "LOC: Nigeria $$ ORG: Boko Haram"}
+{"prediction": "LOC: Kanada $$ PER: Steven Harper $$ LOC: Kanada $$ LOC: Mali $$ ORG: Al-kaida $$ LOC: Mali"}
+{"prediction": "ORG: Igbo Radio $$ LOC: Lagos $$ PER: Jonathan"}
+{"prediction": "PER: Christiane $$ PER: Jonathan $$ LOC: Nigeria $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Jonathan"}
+{"prediction": "PER: Harper $$ DATE: taa $$ PER: Thomas Boni Yayi $$ LOC: Benin Rip\u1ecdblik $$ LOC: Afr\u1ecbka"}
+{"prediction": "PER: Jonathan $$ LOC: Nigeria $$ ORG: Boko Haram"}
+{"prediction": "PER: Jonathan"}
+{"prediction": "LOC: Canada"}
+{"prediction": "LOC: Kanada $$ LOC: Mali $$ LOC: Kanada"}
+{"prediction": "LOC: Kanada $$ LOC: Benin R\u1ecbp\u1ecdblik"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Whitney Houston"}
+{"prediction": "PER: Whitney $$ ORG: Beverly Hilton"}
+{"prediction": "PER: Whitney"}
+{"prediction": ""}
+{"prediction": "LOC: Hollywood"}
+{"prediction": "ORG: Grammy"}
+{"prediction": "PER: Whiteney $$ DATE: \u1ee5b\u1ecdch\u1ecb T\u1ecdzdee"}
+{"prediction": "DATE: mgbede Fra\u1ecbdee $$ ORG: Beverly Hilton"}
+{"prediction": "PER: Barack Obama $$ DATE: n'af\u1ecd 2009 $$ PER: John McCain $$ ORG: R\u1ecbp\u1ecdblikan $$ DATE: n'af\u1ecd 2008"}
+{"prediction": "PER: Obama $$ ORG: Demokrat $$ DATE: \u1ecdnwa N\u1ecdvemba af\u1ecd 2012"}
+{"prediction": "ORG: Demokrat"}
+{"prediction": "DATE: Taa b\u1ee5 abal\u1ecb 21 nke \u1ecdnwa Jen\u1ee5war\u1ecb $$ LOC: Amer\u1ecbka $$ PER: John Robert $$ PER: Obama"}
+{"prediction": "LOC: Amer\u1ecbka $$ DATE: ngw\u1ee5s\u1ecb af\u1ecd 2016"}
+{"prediction": "ORG: CBC $$ LOC: Calgary $$ DATE: af\u1ecd iri na at\u1ecd"}
+{"prediction": "PER: Stacey Joy $$ LOC: Bourdeaux"}
+{"prediction": "DATE: N'af\u1ecd 2004 $$ PER: Stacey"}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": "PER: Stacey"}
+{"prediction": "DATE: af\u1ecd 13 $$ DATE: af\u1ecd itoolu na \u1ecdkara na nga"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: W\u1ecdshintin $$ LOC: Amer\u1ecbka $$ PER: Snowden $$ PER: Snowden $$ LOC: n'Amer\u1ecbka"}
+{"prediction": "PER: Edward Snowden $$ LOC: Rush\u1ecba $$ DATE: n'af\u1ecd 2013 $$ LOC: Amer\u1ecbka"}
+{"prediction": "PER: Tsai Ing-wen $$ ORG: Democratic Progressive Party $$ DATE: \u1ecdnwa JenuwarJanuar\u1ecb"}
+{"prediction": "LOC: Taiwan $$ LOC: Beijing"}
+{"prediction": ""}
+{"prediction": "ORG: ISIS $$ PER: Steven Sotloff $$ LOC: Amer\u1ecbka $$ PER: David Haines $$ LOC: Briten $$ PER: Alan Henning $$ LOC: Briten $$ PER: Abdul-Rahman Kassig $$ LOC: Amer\u1ecbka"}
+{"prediction": ""}
+{"prediction": "LOC: United States"}
+{"prediction": "PER: Jhadi John $$ PER: Mohammed Emwazi"}
+{"prediction": "PER: Mohammed Emwazi $$ LOC: Briten $$ LOC: Kuweti"}
+{"prediction": "ORG: ISIS $$ LOC: London $$ LOC: Briten"}
+{"prediction": "PER: Chris Christie $$ LOC: New Jersey $$ PER: Christie"}
+{"prediction": "LOC: Fort Lee $$ LOC: New Jersey $$ DATE: n'abal\u1ecb 9 ruo abal\u1ecb 13 nke \u1ecdnwa septemba af\u1ecd 2013"}
+{"prediction": "LOC: akwa mmiri George Washington $$ LOC: Fort Lee"}
+{"prediction": "DATE: n'isi \u1ee5t\u1ee5t\u1ee5"}
+{"prediction": "PER: Christie $$ LOC: Fort Lee $$ DATE: taa $$ LOC: Fort Lee $$ PER: Mark Sokolich $$ PER: Chris Christie $$ LOC: New Jersey"}
+{"prediction": "PER: Christie $$ PER: Bill Baroni $$ PER: David Weinstein"}
+{"prediction": "PER: Christie"}
+{"prediction": "LOC: Irak $$ ORG: ISIL"}
+{"prediction": "DATE: Taa"}
+{"prediction": "PER: Salahuddin $$ ORG: ISIL $$ LOC: Samara $$ LOC: Dhuluiya $$ LOC: Balad $$ LOC: Dujail $$ LOC: al-Alam $$ LOC: al-Door $$ LOC: Tikrit $$ LOC: Irak $$ LOC: Irak"}
+{"prediction": "ORG: Daesh"}
+{"prediction": "LOC: Na\u1ecbjiri\u1ecba"}
+{"prediction": "PER: Osita Chidoka"}
+{"prediction": "PER: Chidoka"}
+{"prediction": "PER: Chidoka"}
+{"prediction": "DATE: af\u1ecd 28"}
+{"prediction": "PER: Roland Owie $$ PER: Buhar\u1ecb"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ PER: Buhar\u1ecb"}
+{"prediction": "PER: Yemi Osinbajo"}
+{"prediction": "PER: Osinbajo $$ LOC: R\u1ecdsh\u1ecba $$ LOC: R\u1ecdsh\u1ecba $$ PER: Alexander Tkachev $$ LOC: Na\u1ecbjir\u1ecba $$ LOC: R\u1ecdsh\u1ecba"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: R\u1ecdsh\u1ecba $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "PER: Sam Nwaneri $$ ORG: 'Coal City FM' $$ ORG: 'Federal Radio Corporation of Nigeria $$ ORG: FRCN $$ LOC: Enugu"}
+{"prediction": "DATE: ah\u1ecd a"}
+{"prediction": "ORG: 'Spring of Life International School $$ LOC: Enugu' $$ ORG: Day Secondary School $$ LOC: GRA, Enugu' $$ ORG: 'New Layout Secondary School'"}
+{"prediction": "ORG: 'Government Secondary School $$ LOC: GRA, Enugu $$ ORG: 'Bishop Otubelu Memorial Secondary School $$ LOC: Enugu $$ ORG: Kings High School $$ LOC: New Heaven Enugu $$ ORG: Good Shepherd Anglican Seminary School $$ LOC: Enugu $$ ORG: 'Uwani Secondary School $$ LOC: Enugu"}
+{"prediction": "ORG: FRCN $$ ORG: 'Igbo College' $$ DATE: ah\u1ecd gara aga $$ ORG: 'Ka \u1ecc D\u1ecb Taa' $$ ORG: 'National Light'"}
+{"prediction": "DATE: ah\u1ecd a $$ PER: Chinedum \u1eccf\u1ecdmata $$ PER: Evelyn Igbokwe $$ PER: Chinyere Nwa\u1ee5da"}
+{"prediction": "PER: Obian\u1ecd $$ ORG: Bubendorff Memorial Grammar School $$ LOC: Adazi-Nnukwu' $$ LOC: Ana\u1ecdcha"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Kate Omen\u1ee5gha"}
+{"prediction": "LOC: Awka $$ PER: Paulinus Ezeokafor"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Donald Trump $$ LOC: Amer\u1ecbka"}
+{"prediction": "PER: Donald Trump $$ LOC: Amer\u1ecbka $$ PER: Hillary Clinton"}
+{"prediction": "PER: Barack Obama"}
+{"prediction": "PER: Obama $$ PER: Trump $$ LOC: Amer\u1ecbka $$ DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee"}
+{"prediction": "PER: Clinton $$ LOC: Amer\u1ecbka $$ PER: Trump"}
+{"prediction": "LOC: Amer\u1ecbka"}
+{"prediction": "LOC: New York $$ LOC: Trump Tower $$ PER: Trump"}
+{"prediction": "PER: Trump $$ LOC: Los Angeles"}
+{"prediction": "LOC: Trump Tower $$ PER: Trump"}
+{"prediction": "DATE: ekeresimeesi a"}
+{"prediction": "LOC: Anambra $$ ORG: 'Anambra Traffic Management Agency $$ ORG: ATMA"}
+{"prediction": "LOC: n'Awka"}
+{"prediction": "LOC: Na\u1ecbja Delta $$ DATE: \u1ecdnwa Septemba d\u1ecb na mkp\u1ee5r\u1ee5 \u1ee5b\u1ecdch\u1ecb iri"}
+{"prediction": ""}
+{"prediction": "DATE: n'izu \u1ee5ka gara aga"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka"}
+{"prediction": "ORG: ATMA $$ PER: Pat Obiefuna"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: n'\u1ee5b\u1ecdch\u1ecb iri na ise nke \u1ecdnwa N\u1ecdvemba"}
+{"prediction": "ORG: NECO"}
+{"prediction": "ORG: 'Patterson Grammar School $$ LOC: Awada' $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka gara aga $$ DATE: taa $$ LOC: Anambra"}
+{"prediction": "PER: Obian\u1ecd $$ PER: Solo Chukwulobel\u1ee5"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Patterson Grammar School $$ LOC: n'Awada $$ LOC: \u1eccn\u1ecbtsha $$ LOC: Owerri $$ DATE: n'elekere iri nke abal\u1ecb $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka gara aga"}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd 2019 $$ LOC: Anambra $$ LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd 2019 $$ DATE: n'\u1ecdnwa M\u00e1\u00e0ch\u1ecb, wee d\u1ecbgide ruo abal\u1ecb iri na an\u1ecd nke \u1ecdnwa Ekeresimeesi"}
+{"prediction": "ORG: PTDF"}
+{"prediction": "DATE: N'\u1ecdnwa Novemba af\u1ecd gara aga $$ ORG: PTDF $$ LOC: Naijiria $$ LOC: Britain $$ LOC: Germany $$ LOC: France $$ ORG: PTDF"}
+{"prediction": "ORG: PTDF"}
+{"prediction": "LOC: n'Abuja"}
+{"prediction": ""}
+{"prediction": "DATE: n'\u1ee5b\u1ecdch\u1ecb iri ab\u1ee5\u1ecd na iteghete nke Eprel were ruo \u1ee5b\u1ecdch\u1ecb iri nke \u1ecdnwa Mee $$ DATE: af\u1ecd puku ab\u1ee5\u1ecd na iri na iteghete"}
+{"prediction": "LOC: Naijiria $$ LOC: Naijiria"}
+{"prediction": "PER: Ebumnobi $$ LOC: Naijiria"}
+{"prediction": ""}
+{"prediction": "DATE: n'af\u1ecd gara aga"}
+{"prediction": ""}
+{"prediction": "PER: Uchenna Umeadi $$ LOC: Abagana"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: 'Chinedu Umeadi Foundation' $$ PER: Chinedu Umeadi $$ LOC: Abagana $$ LOC: Njik\u1ecdka $$ LOC: Anambra $$ LOC: Canada"}
+{"prediction": "ORG: SUG"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: 'Awka North' $$ PER: Ferdinand Onwuje"}
+{"prediction": "PER: Onwuje"}
+{"prediction": ""}
+{"prediction": "LOC: Wisconsin $$ LOC: 'United Kingdom' $$ PER: Ego Enemuoh"}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd 2020 $$ LOC: \u1eccz\u1ee5b\u1ee5l\u1ee5 $$ LOC: Ihemb\u1ecds\u1ecb"}
+{"prediction": ""}
+{"prediction": "PER: Jerome Madueke $$ LOC: Ekwul\u1ecdb\u1ecba $$ DATE: ah\u1ecd 2020 $$ LOC: Anambra"}
+{"prediction": "ORG: Digital Entrepreneurship Office $$ PER: Ifeany\u1ecb Aniagoh"}
+{"prediction": "ORG: 'Society of Young Nigerians Writers' $$ LOC: Anambra"}
+{"prediction": "PER: Chineto Ozigbo"}
+{"prediction": "DATE: \u1ecdnwa Mee $$ DATE: n'abal\u1ecb mb\u1ee5 nke \u1ecdnwa Juunu"}
+{"prediction": "ORG: 'Chineto Ozigbo Foundation' $$ PER: Valentine Chineto Ozigbo"}
+{"prediction": ""}
+{"prediction": "PER: Somtochukwu"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Haruna Mohammed $$ DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdnde"}
+{"prediction": "PER: Echezona Metu $$ LOC: n'Igboukwu $$ LOC: Ag\u1ee5ata"}
+{"prediction": ""}
+{"prediction": "PER: John Abang $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: United Nations"}
+{"prediction": "ORG: \u1ecdba akw\u1ee5kw\u1ecd steeti Anambra $$ LOC: n'Awka"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: \u1ecdba akw\u1ee5kw\u1ecd steeti Anambra $$ PER: Nkechi Udeze"}
+{"prediction": ""}
+{"prediction": "PER: Izunna Okafor $$ LOC: Ebenat\u1ecdr $$ LOC: Nnewi Saw\u1ee5t\u1ee5 $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "ORG: mahadum Nnamd\u1ecb Azikiwe $$ LOC: n'Awka"}
+{"prediction": "PER: C-Don Adinuba"}
+{"prediction": "ORG: National Light $$ ORG: Ka \u1ecc D\u1ecb Taa $$ ORG: Sportslight Xtra $$ ORG: Igbo Radio"}
+{"prediction": "PER: Izunna"}
+{"prediction": "PER: Nkem Osuigwe $$ PER: Airen Adetimirin $$ PER: Neemat Days Abdulrahmim $$ PER: Ezra Shiloba"}
+{"prediction": "ORG: UNESCO"}
+{"prediction": "ORG: S\u1ee5wakwa Igbo $$ PER: Pita Eji\u1ecdf\u1ecd $$ ORG: \u1ecdba akw\u1ee5kw\u1ecd \u1ecckamm\u1ee5ta Kenneth Dike $$ LOC: n'Awka"}
+{"prediction": "DATE: n'ah\u1ecd 2002"}
+{"prediction": "PER: Udeze"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ ORG: mahadum Nnamd\u1ecb Azikiwe $$ ORG: Unizik $$ LOC: n'Awka $$ LOC: Anambra $$ ORG: 'Anambra Newspapers and Printing Corporation $$ ORG: ANPC $$ DATE: ah\u1ecd a"}
+{"prediction": "ORG: 'Hult Prize Foundation' $$ ORG: mahadum Unizik $$ PER: Ava Somtoochukwu $$ ORG: ANPC $$ PER: Chuka Nnabuife $$ LOC: n'Awka"}
+{"prediction": "LOC: US $$ PER: Bill Clinton"}
+{"prediction": "ORG: ANPC"}
+{"prediction": "ORG: ANPC $$ PER: Chuka Nnabuife"}
+{"prediction": "ORG: Ka \u1ecc D\u1ecb Taa $$ ORG: 'Sportslight Xtra'"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Nelson Omenugha $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Buusu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: \u1ee4wand\u1ecbigbo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: '\u1ee4wand\u1ecbigbo Academy Inc.' $$ PER: Ejike Eze $$ ORG: \u1ee4wand\u1ecbigbo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: MOE Ene $$ PER: Iwu Ikwubuzo $$ PER: Ike Anyanike"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Ndidi Mezue $$ DATE: n'isi ngw\u1ee5cha izu\u1ee5ka gara aga"}
+{"prediction": ""}
+{"prediction": "DATE: izu\u1ee5ka gara aga"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Enugwu-Ukwu $$ LOC: Njik\u1ecdka $$ LOC: Anambra $$ LOC: Enugwu-Ukwu"}
+{"prediction": ""}
+{"prediction": "PER: Anthony Okoli-Aboh $$ PER: Bob Ugonabo"}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Wenezdee $$ LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ LOC: \u1eccn\u1ecbtsha $$ PER: Nnaemeka Achebe"}
+{"prediction": ""}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "LOC: \u1ee4m\u1ee5nnachi $$ LOC: Dunukofia $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ ORG: 'Anambra State Association of Town Unions $$ ORG: ASATU' $$ PER: Titus Akpudo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: \u1ecdba akw\u1ee5kw\u1ecd steeti Anambra $$ PER: Nkechi Udeze $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5m\u1ee5nwaany\u1ecb na mba \u1ee5wa $$ DATE: 'International Women's Day' $$ DATE: ah\u1ecd 2021 $$ LOC: n'Ak\u1ecbl\u1ecb-Ogidi"}
+{"prediction": "LOC: \u1eccgbaru"}
+{"prediction": "PER: Udeze"}
+{"prediction": "PER: Ngozi Okonjo-Iweala $$ PER: Chimamanda Ad\u1ecbchie $$ PER: Stella Odua"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Gozie Okeke"}
+{"prediction": ""}
+{"prediction": "LOC: Obosi $$ LOC: 'Idemili North' $$ LOC: Anambra"}
+{"prediction": "LOC: Afor Adike"}
+{"prediction": "PER: Ndubonye"}
+{"prediction": "LOC: Obosi $$ PER: Chidubem Iweka $$ LOC: Obosi $$ DATE: nar\u1ecb ah\u1ecd gara"}
+{"prediction": "PER: Nnubuonye"}
+{"prediction": "ORG: CBN $$ LOC: Nigeria $$ DATE: ah\u1ecd 1977 $$ DATE: n'\u1ecdnwa Epure nke ah\u1ecd 1978"}
+{"prediction": ""}
+{"prediction": "DATE: n'abal\u1ecb iri na asaa nke \u1ecdnwa Maach\u1ecb, ah\u1ecd 2018 $$ PER: Obian\u1ecd"}
+{"prediction": "DATE: taa"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Anambra $$ DATE: ah\u1ecd asaa gara aga"}
+{"prediction": "PER: Willie Obian\u1ecd $$ LOC: Anambra $$ LOC: 'Anambra"}
+{"prediction": "LOC: n'Awka $$ DATE: taa"}
+{"prediction": "PER: Obian\u1ecd $$ ORG: National Light $$ ORG: Anambra Broadcasting Service"}
+{"prediction": "DATE: taa $$ PER: Obian\u1ecd $$ LOC: Anambra"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Anambra $$ DATE: taa"}
+{"prediction": "LOC: Ekwul\u1ecdb\u1ecba"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "PER: Antonio Guido Filipazz $$ LOC: n'\u1ee5l\u1ecd\u1ee5ka 'St Joseph's Cathedral Ekwulobia' $$ LOC: Ag\u1ee5ata $$ LOC: Anambra"}
+{"prediction": "DATE: otu ah\u1ecd gara aga"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: \u1ecckpalaeke"}
+{"prediction": "LOC: Anambra $$ LOC: Nigeria"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Ikenga Tochukwu"}
+{"prediction": ""}
+{"prediction": "PER: Tochukwu"}
+{"prediction": ""}
+{"prediction": "LOC: Ag\u1ee5ata $$ LOC: Anambra $$ PER: Samuel Ezeofor $$ ORG: 'Gosife Microfinance Bank'"}
+{"prediction": ""}
+{"prediction": "LOC: Ag\u1ee5ata $$ PER: Ab\u1ee5chi Nwozor"}
+{"prediction": ""}
+{"prediction": "PER: Chinyere Ezeofor $$ PER: Ezeofor $$ LOC: Ag\u1ee5ata $$ PER: Godwin Okpala $$ LOC: Nnewi"}
+{"prediction": "LOC: Anambra $$ PER: Har\u1ee5na M\u1ecdhammed"}
+{"prediction": "PER: ThankGod Akwo $$ LOC: Ogidi $$ PER: Onwe Hillary $$ LOC: Ebonyi"}
+{"prediction": "LOC: Imo $$ PER: Tirimisiyu Tijani $$ LOC: Ibadan $$ LOC: \u1eccy\u1ecd $$ PER: Suleiman Raheem $$ LOC: Imo"}
+{"prediction": ""}
+{"prediction": "PER: John Abang"}
+{"prediction": "PER: Chigbo Aniegbu $$ PER: Transformer $$ LOC: Nimo"}
+{"prediction": "PER: Chigbo An\u1ecbegbu $$ PER: Igboka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: ekeresimeesi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "DATE: n'etiti abal\u1ecb $$ DATE: abal\u1ecb"}
+{"prediction": ""}
+{"prediction": "PER: Atsuku"}
+{"prediction": ""}
+{"prediction": "DATE: awa ab\u1ee5\u1ecd"}
+{"prediction": "DATE: mp\u1ee5ta af\u1ecd Terkura $$ PER: Joshua"}
+{"prediction": "PER: Gwabo Matthew"}
+{"prediction": ""}
+{"prediction": "PER: Samuel Ortom $$ PER: Muhammadu Buhari $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "PER: Abounu $$ LOC: Benue $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "LOC: Benue"}
+{"prediction": "ORG: State Emergency Management Agency $$ ORG: SEMA $$ PER: Emmanuel Shior"}
+{"prediction": "PER: Samuel Ortom"}
+{"prediction": "LOC: Ogun"}
+{"prediction": "PER: Abimbola $$ PER: John Nelson $$ LOC: Onipanu $$ LOC: Odo $$ LOC: Ota"}
+{"prediction": "PER: Bamidele Job"}
+{"prediction": "PER: Edward Awolowo Ajogun"}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: Mahadum Nnamdi Azikiwe $$ LOC: n'Ifite Awka $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka"}
+{"prediction": "PER: Toochukwu"}
+{"prediction": "PER: Toochukwu $$ LOC: Nise"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Okehi $$ LOC: Kogi $$ LOC: Okene $$ LOC: Lokoja"}
+{"prediction": ""}
+{"prediction": "PER: Onogwu Mohammed $$ ORG: Facebook"}
+{"prediction": "DATE: n'abal\u1ecb"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Mohammed"}
+{"prediction": ""}
+{"prediction": "ORG: Facebook $$ LOC: Kogi State $$ PER: Onogwu Mohammed $$ DATE: Sunday"}
+{"prediction": ""}
+{"prediction": "PER: Onogwu"}
+{"prediction": "LOC: Okehi Local Government Area $$ PER: Abdulraheem Ohiare $$ LOC: Kogi State"}
+{"prediction": "LOC: n'Ukpo $$ LOC: Anambra"}
+{"prediction": "PER: Garba Mukaddas"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ LOC: n'Ag\u1ee5leri $$ LOC: 'Anambra East'"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Willie Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": "LOC: Nigeria $$ LOC: Nigeria $$ DATE: taa"}
+{"prediction": "DATE: n'abal\u1ecb"}
+{"prediction": ""}
+{"prediction": "ORG: INEC $$ LOC: Anambra $$ LOC: Anambra $$ PER: Chris Owolabi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Itanla $$ LOC: n'Ado-Ekiti steeti $$ LOC: Ekiti"}
+{"prediction": "PER: Buhari Musa $$ ORG: n'\u1ee5l\u1ecdikpe Majie $$ LOC: n'Ado-Ekiti"}
+{"prediction": "PER: Johnson Okunade $$ PER: Buhari $$ DATE: n'abal\u1ecb iri na at\u1ecd nke \u1ecdnwa Juunu a n'elekere asaa nke \u1ee5t\u1ee5t\u1ee5 $$ LOC: Omisanjana $$ LOC: Ado-Ekiti"}
+{"prediction": "PER: Okunade $$ PER: Saliu Mustapha"}
+{"prediction": "PER: Buhari $$ LOC: Ekiti State $$ DATE: 2012'"}
+{"prediction": "PER: Buhari"}
+{"prediction": "PER: Buhari $$ PER: Lai Obisesan"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Azubuike Ekwegbalu"}
+{"prediction": "PER: Haruna Mohammed"}
+{"prediction": "PER: Mohammed"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Mohammed"}
+{"prediction": "LOC: Anambra $$ PER: John Abang $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: Boko Haram"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee"}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd 2009"}
+{"prediction": "LOC: Nigeria $$ LOC: Niger $$ LOC: Chad $$ LOC: Cameroon"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: n'Awka"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: n'ama egwuregwu Alex Ekwueme $$ LOC: n'Awka"}
+{"prediction": "PER: Adeyomo $$ LOC: Nigeria"}
+{"prediction": "PER: Uchenna Okafor"}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdnde $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Haruna Mohammed $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Onochie Manasseh Anyachebelu $$ LOC: n'\u1ee4kp\u1ecdr $$ ORG: 'Ukpor Magistrates' Court $$ LOC: 'Nnewi South' $$ LOC: Anambra"}
+{"prediction": "LOC: n'Ukpor"}
+{"prediction": "PER: Nwachukwu $$ PER: Anyachebel\u1ee5"}
+{"prediction": "LOC: 'Nnewi South' $$ PER: Chieloka Henry Okoye"}
+{"prediction": "PER: Okoye"}
+{"prediction": ""}
+{"prediction": "PER: Anyachebel\u1ee5"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: n'ama egwuregwu Alex Ekwueme"}
+{"prediction": "LOC: n'\u1eccka $$ LOC: Awka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ PER: Muhammadu Buhari"}
+{"prediction": "PER: Buhari $$ LOC: Nigeria"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Haruna Mohammed"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdnde"}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Haruna Mohammed $$ LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": "LOC: Owerri"}
+{"prediction": "LOC: Nigeria $$ PER: Mohammed Adamu $$ LOC: Anambra $$ LOC: Nigeria"}
+{"prediction": "PER: Adamu $$ ORG: ASATU $$ ORG: \u1ecchaneze Nd\u1ecbigbo $$ LOC: n'Awka"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ LOC: Anambra"}
+{"prediction": "PER: Willie Obiano"}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd \u1ecdz\u1ecd"}
+{"prediction": "LOC: Anambra $$ PER: Monday Kuriyas"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Emma Ifesinachi $$ DATE: n'\u1ecdn\u1ee5 \u1ee5t\u1ee5t\u1ee5"}
+{"prediction": ""}
+{"prediction": "PER: Kuryas"}
+{"prediction": "LOC: Anambra $$ LOC: n'Awada $$ LOC: 'Idemili North'"}
+{"prediction": "PER: Mohammed"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: n'Amawbia"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obiano"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Nigeria $$ LOC: GOC 82 $$ LOC: Enugu $$ PER: Taoreed Lagbaja $$ LOC: n'\u1eccn\u1ecbtsha"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Nigeria"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "LOC: Ebonyi $$ LOC: Enugu"}
+{"prediction": "DATE: n'\u1ee5b\u1ecdch\u1ecb M\u1ecdnde $$ LOC: Obeag\u1ee5 $$ LOC: Ishielu $$ LOC: Ebonyi"}
+{"prediction": ""}
+{"prediction": "PER: Ngozi Odoabuchi"}
+{"prediction": "LOC: n'\u1ecckada"}
+{"prediction": "PER: Amuche Uga $$ LOC: Onitsha"}
+{"prediction": ""}
+{"prediction": "LOC: Ishielu $$ PER: Henry Eze"}
+{"prediction": "LOC: Adani $$ LOC: \u1ee4z\u1ecd-\u1ee4wan\u1ecb $$ LOC: Enugu"}
+{"prediction": ""}
+{"prediction": "LOC: Enugu $$ PER: Daniel Ndukwe"}
+{"prediction": "PER: Mohammed Aliyu"}
+{"prediction": "ORG: 'Awka Capital Territory Development Authority' $$ ORG: ACTDA $$ LOC: Nibo $$ LOC: 'Awka South' $$ LOC: Anambra"}
+{"prediction": "ORG: ACTDA"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: n'Aguleri $$ LOC: 'Anambra East' $$ PER: Ebelechukwu Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd $$ PER: Ikechukwu Nome $$ DATE: \u1ee5b\u1ecdch\u1ecb Wenezdee"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Solo Chukwulobelu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Willie Obiano"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd $$ DATE: \u1ee5b\u1ecdch\u1ecb Ista $$ DATE: ah\u1ecd 2021 $$ LOC: n'Ag\u1ee5leri $$ LOC: 'Anambra East'"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Anambra $$ DATE: n'Ista $$ DATE: ah\u1ecd a"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: n'\u1ecdn\u1ee5 \u1ee5t\u1ee5t\u1ee5 \u1ee5b\u1ecdch\u1ecb \u1ee5ka $$ DATE: \u1ee5b\u1ecdch\u1ecb Ista"}
+{"prediction": "LOC: Nigeria $$ ORG: IPOB $$ ORG: ESN"}
+{"prediction": "DATE: awa iri an\u1ecd na asat\u1ecd $$ DATE: \u1ee5b\u1ecdch\u1ecb Monde $$ LOC: Imo $$ LOC: Ehime Mban\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Ikenga Toochukwu"}
+{"prediction": ""}
+{"prediction": "LOC: Akwa Ibom"}
+{"prediction": "PER: Monday Kuryas $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ ORG: 'South-East Governors Forum'"}
+{"prediction": "LOC: n'Owerri"}
+{"prediction": "LOC: Imo"}
+{"prediction": ""}
+{"prediction": "ORG: NDEA $$ LOC: n'Abuja $$ PER: Femi Babafemi $$ DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: NDLEA $$ LOC: FCT $$ PER: Mohammed Marwa"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Aba $$ LOC: n'\u1eccn\u1ecbtsha"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "DATE: n'elekere iri na ab\u1ee5\u1ecd nke \u1ee5b\u1ecdch\u1ecb Wenezdee $$ LOC: n'Amikwo Awka $$ LOC: 'Awka South'"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Toochukwu"}
+{"prediction": "LOC: Anambra $$ PER: Monday Bala Kuryas $$ LOC: Anambra"}
+{"prediction": "PER: Mohammed Adamu $$ DATE: n'\u1ecdnwa an\u1ecd mb\u1ee5 nke af\u1ecd puku ab\u1ee5\u1ecd na iri na iteghete"}
+{"prediction": "PER: Adamu $$ DATE: Jen\u1ee5war\u1ecb were ruo Eprel"}
+{"prediction": "LOC: n'Ukpo $$ LOC: Dunuk\u1ecdf\u1ecba $$ LOC: Anambra"}
+{"prediction": "LOC: Zamfara $$ LOC: Kaduna $$ LOC: Benue"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Nkeiruka"}
+{"prediction": ""}
+{"prediction": "LOC: Zamfara"}
+{"prediction": "LOC: Kogi $$ LOC: Naija"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Kuryas Monday"}
+{"prediction": ""}
+{"prediction": "PER: Adamu"}
+{"prediction": ""}
+{"prediction": "LOC: n'Awka"}
+{"prediction": "LOC: Jos $$ LOC: Plateau $$ LOC: \u1eccn\u1ecbtsha"}
+{"prediction": "LOC: n'Awka $$ LOC: Enugu $$ LOC: \u1eccn\u1ecbtsha"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Haruna Mohammed"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Haruna Mohammed $$ LOC: n'\u1eccn\u1ecbtsha"}
+{"prediction": "ORG: Lloyd Industries Limited $$ LOC: Sango Ota $$ LOC: Ogun $$ LOC: n'\u1ecdd\u1ee5 \u1ee5gb\u1ecd mmiri Apapa $$ LOC: 'Apapa Wharf'"}
+{"prediction": ""}
+{"prediction": "PER: Suleiman Abdulkareem"}
+{"prediction": "PER: Godswill Ebirim $$ LOC: \u1eccn\u1ecbtsha"}
+{"prediction": "PER: M\u1ecdhammed"}
+{"prediction": "ORG: Indeginous People Of Biafra $$ ORG: Ipob $$ PER: Mbazulike Amechi"}
+{"prediction": ""}
+{"prediction": "PER: Nnia Nwodo $$ ORG: ohaneze nd\u1ecb Igbo $$ ORG: BBC"}
+{"prediction": "ORG: Ipob $$ LOC: Nnamd\u1ecb Kan\u1ee5 $$ PER: Aloy Ejimako $$ PER: Damian Okeke-Ogene"}
+{"prediction": "PER: Aloy $$ PER: Kanu $$ ORG: Ipob $$ PER: Nwodo"}
+{"prediction": "ORG: Ipob $$ ORG: Ipob"}
+{"prediction": "PER: Okeke-Ogene $$ PER: Nwodo $$ LOC: Naijir\u1ecba"}
+{"prediction": "PER: Emejulu Okpalukwu Okpaleze $$ ORG: Ohaneze General Assembly"}
+{"prediction": ""}
+{"prediction": "ORG: Niger Delta Development Commission $$ ORG: NDDC $$ PER: Olubumi Tunji-Ojo"}
+{"prediction": "PER: Tunji-Ojo $$ DATE: \u1ee5nyaah\u1ee5 b\u1ee5 M\u1ecdnde $$ LOC: Abuja $$ ORG: NDDC"}
+{"prediction": "PER: Tunji-Ojo"}
+{"prediction": "DATE: T\u1ecdzdee izu\u1ee5ka garaaga $$ ORG: NDDC $$ LOC: Tunji-Ojo $$ ORG: NDDC"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Haruna Mohammed $$ LOC: n'Awka"}
+{"prediction": "DATE: n'abal\u1ecb iri na isii nke \u1ecdnwa Jula\u1ecb a wee ruo taa"}
+{"prediction": "PER: Oyewale"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Haruna Mohammed"}
+{"prediction": "DATE: abal\u1ecb iri na asat\u1ecd nke \u1ecdnwa a"}
+{"prediction": ""}
+{"prediction": "PER: M\u1ecdhammed $$ PER: John Abang"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Nkechi Odinye $$ LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ DATE: n'abal\u1ecb iri ab\u1ee5\u1ecd na ab\u1ee5\u1ecd nke \u1ecdnwa \u1eccktoba ah\u1ecd gara aga $$ DATE: 2019 $$ LOC: ah\u1ecba Nkp\u1ecdr $$ LOC: 'Idemili North'"}
+{"prediction": ""}
+{"prediction": "PER: Hauwa Musa $$ LOC: Gombe $$ LOC: Anambra"}
+{"prediction": "PER: Mohammed"}
+{"prediction": "PER: John Abang"}
+{"prediction": "LOC: 3-3 \u1eccn\u1ecbtsha"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Haruna Mohammed $$ PER: Obimeze Maduabuchi $$ LOC: Nsugbe $$ LOC: Anambra East $$ LOC: 'Ejeagwu Estate' $$ LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Anambra $$ PER: Oliver Chukwudi Ugwu $$ LOC: Umusiome $$ LOC: Nkpor $$ LOC: Idemili North'"}
+{"prediction": "PER: Ubong  Akpan"}
+{"prediction": "PER: Ubong"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Edward Ajogun $$ LOC: n'\u1eccta"}
+{"prediction": ""}
+{"prediction": "PER: Ajogun"}
+{"prediction": "DATE: n'abal\u1ecb \u1ee5b\u1ecdch\u1ecb Tuzdee $$ LOC: 'Ezza North' $$ DATE: \u1ee5b\u1ecdch\u1ecb Wenezdee"}
+{"prediction": "ORG: INEC"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: INEC $$ LOC: n'Ebony $$ ORG: INEC $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka $$ ORG: INEC $$ LOC: Enugu $$ ORG: INEC"}
+{"prediction": ""}
+{"prediction": "LOC: ah\u1ecba Ladipo $$ LOC: Mushin $$ LOC: Lagos"}
+{"prediction": "DATE: n'oge \u1ee5t\u1ee5t\u1ee5 $$ LOC: Alapeju $$ LOC: ah\u1ecba Ladipo"}
+{"prediction": "ORG: 'Lagos State Emergency Management Agency' $$ ORG: LASEMA $$ PER: Nosa Okunbor"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: LASEMA $$ PER: Olufemi Oke-Osanyintolu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: 'Kaduna State College of Nursing and Midwifery' $$ PER: Lydia Dantata"}
+{"prediction": "LOC: Kafanchan"}
+{"prediction": ""}
+{"prediction": "ORG: Nigeria Labour Congress"}
+{"prediction": ""}
+{"prediction": "PER: Ephraim Dyages $$ PER: Kafanchan $$ PER: Dantata $$ DATE: n'elekere at\u1ecd nke \u1ee5t\u1ee5t\u1ee5 Monde $$ ORG: 'Jos University Teaching Hospital' $$ ORG: JUTH"}
+{"prediction": ""}
+{"prediction": "PER: Dyages $$ ORG: 'General Hospital $$ LOC: Kafanchan'"}
+{"prediction": ""}
+{"prediction": "ORG: 'Kaduna State College of Nursing and Midwifery' $$ PER: Lydia Dantata $$ LOC: Kafanchan"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Ephraim Dyages $$ PER: Kafanchan $$ PER: Dantata $$ DATE: n'elekere at\u1ecd nke \u1ee5t\u1ee5t\u1ee5 Monde $$ ORG: 'Jos University Teaching Hospital' $$ ORG: JUTH"}
+{"prediction": ""}
+{"prediction": "PER: Dyages $$ ORG: 'General Hospital $$ LOC: Kafanchan'"}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": "ORG: 'Fishery and Aquaculture Business Development Agency $$ ORG: FABDA $$ LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "ORG: FABDA $$ PER: Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ ORG: 'Rule of Law And Anti-Corruption $$ ORG: RoLAC'"}
+{"prediction": "LOC: n'Awka $$ ORG: RoLAC $$ LOC: Anambra"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: RoLAC $$ LOC: Anambra $$ PER: Josephine Onah $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Obiano $$ ORG: RoLAC"}
+{"prediction": "PER: Obian\u1ecd $$ PER: Chuks Ezewuzie"}
+{"prediction": "ORG: RoLAC $$ LOC: Anambra"}
+{"prediction": "PER: Ezewuzie $$ LOC: Anambra $$ PER: Willie Obian\u1ecd $$ PER: Ebelechukwu Obian\u1ecd $$ PER: Obiano"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: \u1ecdba akw\u1ee5kw\u1ecd steeti Anambra $$ DATE: \u1ee5b\u1ecdch\u1ecb Wenezdee $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1eccnatarachi Afr\u1ecbka na Mba \u1ee4wa $$ DATE: ah\u1ecd 2021"}
+{"prediction": "PER: Peter Ibe"}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Ebelechukwu Obian\u1ecd $$ LOC: 'Anambra East'"}
+{"prediction": "LOC: n'Ivite Aguleri $$ LOC: n'Enugwu-Aguleri $$ LOC: n'Umueri $$ LOC: n'Otu\u1ecdcha $$ LOC: n'\u1ee4m\u1ee5ndeze $$ LOC: Eziag\u1ee5l\u1ee5 $$ LOC: Ag\u1ee5leri"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: \u1ee4m\u1ee5chu $$ LOC: Ag\u1ee5ata $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: \u1ee4m\u1ee5chu $$ PER: Godson Ezechukwu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: 'Federal Road Safety Corps $$ ORG: FRSC $$ LOC: Anambra $$ LOC: Nigeria"}
+{"prediction": "PER: Oparaocha"}
+{"prediction": "PER: Ayanwale"}
+{"prediction": "PER: Chibueze Oparaocha"}
+{"prediction": "PER: Chibueze Oparaocha $$ ORG: FRSC"}
+{"prediction": "ORG: 'Caring Family Enhancement Initiative $$ ORG: CAFE"}
+{"prediction": "ORG: CAFE $$ PER: Ezeaj\u1ee5gh\u1ecb"}
+{"prediction": "ORG: CAFE $$ LOC: Anambra $$ PER: Ebelechukwu Obian\u1ecd $$ LOC: \u1ecckapala"}
+{"prediction": "ORG: CAFE"}
+{"prediction": "DATE: taa $$ LOC: Nigeria $$ LOC: Afrika"}
+{"prediction": "ORG: \u1ee5l\u1ecd ah\u1ee5ike mba \u1ee5wa $$ ORG: 'World Health Organisatio $$ ORG: WHO $$ LOC: Nigeria"}
+{"prediction": "LOC: Nigeria $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "LOC: Igboukwu $$ LOC: Ag\u1ee5ata $$ LOC: Anambra"}
+{"prediction": "LOC: Rivers $$ PER: Elkanah Hason"}
+{"prediction": "PER: Okey Eze $$ PER: Paul Egwuonwu"}
+{"prediction": ""}
+{"prediction": "ORG: 'Jessybela Foundation' $$ LOC: n'\u1ee4m\u1ee5eri $$ LOC: 'Anambra East' $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Nweke $$ PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee $$ ORG: Nnamd\u1ecb Azikiwe University $$ LOC: n'Awka $$ LOC: Anambra"}
+{"prediction": "ORG: 'Forestry and Wildlife Students Association $$ ORG: FOWSA"}
+{"prediction": "PER: Anselm E. Egwuatum"}
+{"prediction": ""}
+{"prediction": "PER: E.A"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Chukwu Onyekachi"}
+{"prediction": "LOC: n'\u1ee4m\u1ee5oji $$ LOC: 'Idemili North' $$ LOC: Anambra $$ PER: Cyril Nwabunwanne Enweze"}
+{"prediction": ""}
+{"prediction": "LOC: n'Awka $$ LOC: Anambra $$ LOC: Nigeria"}
+{"prediction": "PER: Enweze $$ LOC: \u1ee4m\u1ee5oji $$ ORG: 'Anambra State Investment, Promotion, and Protection Agency $$ ORG: ANSIPPA"}
+{"prediction": ""}
+{"prediction": "PER: Enweze $$ LOC: \u1ee4m\u1ee5oji"}
+{"prediction": ""}
+{"prediction": "PER: Mabel Daniel $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Ogun"}
+{"prediction": "LOC: Ogun $$ PER: Abimbola Oyeyemi"}
+{"prediction": "PER: Lawal Bidemi AbdulRaheem $$ PER: Olalekan Azeez $$ PER: Opeloyeru Kayode $$ ORG: 'Sandtrust Quarry Company'"}
+{"prediction": ""}
+{"prediction": "LOC: Awa-Ijebu"}
+{"prediction": ""}
+{"prediction": "PER: Oyeyemi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Oyeyemi"}
+{"prediction": "PER: Oyeyemi $$ DATE: n'abal\u1ecb iri ab\u1ee5\u1ecd na isii nke \u1ecdnwa Juunu a"}
+{"prediction": ""}
+{"prediction": "PER: Yahaya"}
+{"prediction": ""}
+{"prediction": "LOC: n'Osogbo $$ LOC: Osun $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka gara aga"}
+{"prediction": "ORG: 'Kamorudeen Central Mosque' $$ LOC: Oluode Aranyin $$ LOC: n'Osogbo $$ DATE: \u1ecdkara gata elekere ab\u1ee5\u1ecd nke ehihie \u1ee5b\u1ecdch\u1ecb \u1ee5ka $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Yalo $$ LOC: Adamawa"}
+{"prediction": "ORG: 'Adamawa State Specialist Hospital' $$ LOC: Jemita $$ LOC: Yola"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: 'Adamawa State Specialist Hospital' $$ LOC: Yola North Local Government' $$ LOC: Adamawa $$ ORG: 'Federal Medical Centre $$ ORG: FMC $$ LOC: Yola South'"}
+{"prediction": ""}
+{"prediction": "PER: Chika Kenneth Esenwune $$ ORG: Radio Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: n'abal\u1ecb iro ab\u1ee5\u1ecd na at\u1ecd nke \u1ecdnwa Epure ah\u1ecd \u1ecdb\u1ee5la $$ DATE: n'ah\u1ecd 1995"}
+{"prediction": "ORG: 'Nigerian Maritime Administration and Safety Agency $$ ORG: NIMASA $$ LOC: Anambra"}
+{"prediction": "ORG: n'\u1ee5l\u1ecd\u1ecdr\u1ee5 odeakw\u1ee5kw\u1ecd \u1ecdkp\u1ee5t\u1ecdr\u1ecdkp\u1ee5 steeti Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Solo Chukwulobelu $$ ORG: NIMASA"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Willie Obian\u1ecd $$ ORG: NIMASA"}
+{"prediction": ""}
+{"prediction": "PER: Trezeguet $$ ORG: Aston $$ PER: Emiliano Martinez $$ DATE: \u1ecdnwa February"}
+{"prediction": "ORG: Aston Villa $$ ORG: West Ham"}
+{"prediction": "ORG: Uefa $$ LOC: Yurop $$ DATE: \u1ecdnwa \u1eccg\u1ecdst"}
+{"prediction": "ORG: Mahadum Nnamd\u1ecb Azikiwe $$ LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd iri ab\u1ee5\u1ecd na ise $$ ORG: 'Unizik Comet Magazine'"}
+{"prediction": ""}
+{"prediction": "LOC: Afr\u1ecbka $$ PER: Stella Okunna $$ LOC: Anambra $$ PER: Kate Omenugha"}
+{"prediction": "PER: Godson Okafor $$ PER: Obinna Ogba $$ PER: Nelson Omenugha"}
+{"prediction": "PER: Ogbonna $$ DATE: n'abal\u1ecb iri ab\u1ee5\u1ecd na asat\u1ecd nke \u1ecdnwa Eprel"}
+{"prediction": "PER: Ememanka $$ DATE: oge Ogbonna"}
+{"prediction": "PER: Ogbonna"}
+{"prediction": "PER: Oluwafemi Ajibade $$ ORG: BBC $$ LOC: n'Umuahia $$ PER: Ogbonna"}
+{"prediction": "ORG: DSS $$ PER: Ogbonna $$ ORG: DSS"}
+{"prediction": "LOC: Anambra $$ DATE: n'izu\u1ee5ka a $$ LOC: Nigeria $$ LOC: Edo $$ LOC: Edo $$ DATE: 2020"}
+{"prediction": "PER: Willie Obian\u1ecd $$ LOC: n'Ag\u1ee5leri $$ LOC: 'Anambra East' $$ PER: Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": "PER: Tony Oli"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Anambra $$ LOC: Anambra"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Tony Oli $$ LOC: Anambra"}
+{"prediction": "LOC: Ag\u1ee5leri $$ PER: Michael Idigo $$ PER: Obian\u1ecd $$ PER: Chuks Ezewuzie"}
+{"prediction": "PER: Stephanie Onuzuruike"}
+{"prediction": ""}
+{"prediction": "LOC: Nguji Ojiegbe Onunwakpu $$ LOC: Ndiegede $$ LOC: Igbeagu $$ LOC: Izii $$ LOC: Ebonyi steeti $$ DATE: \u1ee5b\u1ecdch\u1ecb Wenesde"}
+{"prediction": "PER: Sunday Odom $$ LOC: Onunwakpu $$ PER: Emmanuel Uguru $$ LOC: Ndiegede"}
+{"prediction": "PER: Odom Abama"}
+{"prediction": "PER: Abama $$ LOC: Ndiegede $$ DATE: n'af\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Abama $$ LOC: Onunwakpu $$ PER: Mbam Nwambam Ekpem $$ LOC: Nd\u1ecbegede"}
+{"prediction": ""}
+{"prediction": "PER: Ekpem $$ LOC: Ebonyi $$ PER: Dave Umahi"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb wenesde"}
+{"prediction": "LOC: Azungele"}
+{"prediction": "ORG: Igbeagu Stakeholders Forum"}
+{"prediction": "LOC: Nguji Ojiegbe $$ PER: Innocent Igbeag\u1ee5"}
+{"prediction": "PER: Loveth Odah"}
+{"prediction": "LOC: Ab\u1ecba $$ LOC: n'Aba $$ DATE: \u1ee5b\u1ecdch\u1ecb at\u1ecd"}
+{"prediction": "DATE: n'elekere isii nke \u1ecdn\u1ee5 \u1ee5t\u1ee5t\u1ee5 wee ruo elekere isii nke mgbede $$ DATE: \u1ee5b\u1ecdch\u1ecb Tuuzdee wee ruo \u1ee5b\u1ecdch\u1ecb T\u1ecd\u1ecdzdee"}
+{"prediction": "LOC: n'\u1eccn\u1ecbsha $$ LOC: Anambra"}
+{"prediction": "ORG: 'Federal Road Safety Corps' $$ ORG: FRSC $$ LOC: Anambra $$ PER: Edor Florence"}
+{"prediction": ""}
+{"prediction": "ORG: FRSC"}
+{"prediction": ""}
+{"prediction": "PER: Hope Uzodinma $$ LOC: Imo $$ DATE: af\u1ecd 2019"}
+{"prediction": "ORG: \u1ee4l\u1ecdikpe ukwu $$ LOC: n'Abuja $$ DATE: \u1ee5b\u1ecdch\u1ecb Wenezde $$ PER: Uzodinma $$ LOC: Imo"}
+{"prediction": "PER: Kingdom Okere $$ ORG: Reform and Advancement Party $$ ORG: RAP $$ PER: Hope Uzodinma $$ DATE: 2019"}
+{"prediction": "PER: Okere $$ PER: Hope Uzodinma $$ ORG: APC $$ DATE: n'af\u1ecd 2019"}
+{"prediction": "PER: Uzodinma $$ LOC: Imo"}
+{"prediction": "PER: Uzodinma"}
+{"prediction": "PER: Uche Nwosu $$ ORG: APC $$ PER: Nwosu $$ ORG: APC $$ ORG: AA"}
+{"prediction": "PER: Okere"}
+{"prediction": "PER: Okon Abang $$ DATE: \u1ee5b\u1ecdch\u1ecb Jula\u1ecb 20, af\u1ecd 2020"}
+{"prediction": "PER: Okorocha $$ LOC: Imo $$ LOC: Imo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: N'\u1ee5b\u1ecdch\u1ecb taa n'af\u1ecd 1967 $$ PER: Dim Chukwuemeka \u1eccd\u1ee5megwu Ojukwu $$ LOC: Na\u1ecbjir\u1ecba $$ ORG: Biafra"}
+{"prediction": "ORG: Biafra"}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Willie Obian\u1ecd $$ LOC: n'\u1ee4m\u1ee5eri $$ LOC: 'Anambra East'"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Obian\u1ecd $$ PER: Ebelechukwu Obiano $$ DATE: ngw\u1ee5cha izu\u1ee5ka gara aga"}
+{"prediction": "LOC: Anambra $$ LOC: \u1ecck\u1ecbja $$ PER: Earnest Obiejesi"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ LOC: Na\u1ecbjir\u1ecba $$ PER: Usman Alkali Baba"}
+{"prediction": "DATE: N'izu \u1ee5ka gara aga $$ PER: Usman Baba $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "PER: Usman Baba $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "ORG: National Human Rights Commission $$ PER: Usman Baba"}
+{"prediction": "PER: Usman Baba $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: Umuahia $$ LOC: Orlu"}
+{"prediction": "LOC: Turkey $$ DATE: izu \u1ee5ka gara aga $$ LOC: Istanbul"}
+{"prediction": ""}
+{"prediction": "LOC: Turkey $$ PER: Tayyip Erdogan $$ LOC: Taksim Square $$ LOC: n'Istanbul"}
+{"prediction": "ORG: Spen $$ PER: Mariano Rajoy $$ ORG: Spen $$ LOC: Katalon\u1ecba $$ ORG: Spen $$ LOC: Katalon\u1ecba $$ LOC: Spen"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Sat\u1ecddee, abal\u1ecb 21 nke \u1ecdnwa \u1ecck\u1ee5toba $$ LOC: Barcelona Centre $$ LOC: Madrid"}
+{"prediction": "ORG: Spen $$ LOC: Katalon\u1ecba $$ ORG: Spen"}
+{"prediction": "LOC: Spen"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Katalon\u1ecba $$ LOC: Spen"}
+{"prediction": "PER: Trump $$ PER: Kim Jong-un $$ LOC: N\u1ecdt Kor\u1ecba $$ LOC: Amer\u1ecbka"}
+{"prediction": "LOC: S\u1ecbngap\u1ecd $$ DATE: n'abal\u1ecb 12 nke \u1ecdnwa Juunu"}
+{"prediction": "PER: Kim Jong-un $$ LOC: Amer\u1ecbka $$ LOC: N\u1ecdt Kor\u1ecba"}
+{"prediction": "PER: Trump $$ PER: Kim Jong-un $$ LOC: N\u1ecdt Kor\u1ecba"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ LOC: China $$ LOC: China"}
+{"prediction": "DATE: n'abal\u1ecb mb\u1ee5 nke \u1ecdnwa Epure $$ LOC: Guangzhou $$ LOC: China"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: ISIS"}
+{"prediction": "PER: Baghdadi $$ ORG: izlamik steeti $$ LOC: Sir\u1ecba"}
+{"prediction": "DATE: n'abal\u1ecb \u1ee5nyaa $$ LOC: Amer\u1ecbka $$ LOC: Baghdadi $$ LOC: Sir\u1ecba"}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Donald Trump $$ DATE: \u1ee5t\u1ee5t\u1ee5 \u1ee5nyaa $$ LOC: Amer\u1ecbka $$ LOC: Baghdadi"}
+{"prediction": "PER: Trump $$ LOC: Amer\u1ecbka $$ LOC: Baghdadi $$ LOC: Baghdadi"}
+{"prediction": "DATE: N'izu \u1ee5ka gara aga $$ LOC: Amer\u1ecbka $$ LOC: Baghdadi $$ LOC: Sir\u1ecba $$ PER: Mohammed Ali Sajet $$ LOC: Baghdadi $$ LOC: \u1ecarak $$ DATE: \u1ecdnwa gara aga"}
+{"prediction": "LOC: Amer\u1ecbka $$ LOC: Baghdadi"}
+{"prediction": "ORG: Baghdadi"}
+{"prediction": "PER: Baghdadi"}
+{"prediction": ""}
+{"prediction": "PER: Pannalal"}
+{"prediction": ""}
+{"prediction": "PER: Pannalal"}
+{"prediction": ""}
+{"prediction": "DATE: taa"}
+{"prediction": "LOC: Baltimore $$ LOC: Amer\u1ecbka $$ PER: Ela\u1ecbja Commings"}
+{"prediction": "DATE: n'isi \u1ee5t\u1ee5t\u1ee5 taa b\u1ee5 T\u1ecdzdee $$ ORG: \u1ee5l\u1ecd \u1ecdgw\u1ee5 John Hopkins"}
+{"prediction": "PER: Commings"}
+{"prediction": "ORG: Demokrat $$ LOC: n'Amer\u1ecbka"}
+{"prediction": "DATE: taa $$ PER: Commings $$ PER: Donald Trump $$ LOC: Amer\u1ecbka $$ LOC: Yukren"}
+{"prediction": "PER: Trump"}
+{"prediction": "PER: Kambge $$ ORG: Commings $$ LOC: Amer\u1ecbka"}
+{"prediction": "LOC: n'Amer\u1ecbka $$ PER: Maya Rockeymoore Commings"}
+{"prediction": "LOC: Kanada $$ PER: Justin Trudeau"}
+{"prediction": "PER: Trudeau $$ LOC: Kanada $$ DATE: \u1ee5nya b\u1ee5 abal\u1ecb 21 nke \u1ecdnwa \u1ecck\u1ee5toba"}
+{"prediction": ""}
+{"prediction": "PER: Justin Trudeau $$ LOC: Kanada $$ ORG: Libral Pati"}
+{"prediction": "LOC: Albata $$ LOC: Saskach\u1ecbwan"}
+{"prediction": "PER: Justin Trudeau $$ LOC: Kanada $$ DATE: af\u1ecd an\u1ecd $$ ORG: Libral Pati $$ DATE: n'af\u1ecd 2015"}
+{"prediction": "LOC: Texas $$ LOC: US $$ DATE: \u1ee5nyaah\u1ee5"}
+{"prediction": "PER: Greg Abbot"}
+{"prediction": "PER: Isaland $$ ORG: Corpus Christi $$ LOC: Brownsville"}
+{"prediction": "PER: Hanna"}
+{"prediction": "LOC: Yukren $$ LOC: R\u1ecdsh\u1ecba $$ DATE: af\u1ecd ab\u1ee5\u1ecd"}
+{"prediction": "LOC: Yukren $$ LOC: Amer\u1ecbka $$ LOC: US $$ LOC: Yukren"}
+{"prediction": "ORG: Demokrat $$ PER: Trump"}
+{"prediction": "PER: Trump"}
+{"prediction": "ORG: R\u1ecbp\u1ecdblikan $$ PER: Trump"}
+{"prediction": "PER: Mulvaney $$ PER: Trump $$ DATE: taa $$ PER: Trump $$ PER: Zelensky"}
+{"prediction": "LOC: US"}
+{"prediction": "DATE: taa $$ LOC: Anambra"}
+{"prediction": "ORG: 'Anambra Chamber of Commerce, Industry, Mines and Agriculture $$ ORG: ACCIMA"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: 'Dema Growth Point' $$ LOC: Zimbabwe"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Alice"}
+{"prediction": ""}
+{"prediction": "LOC: 'Dema Growth Point' $$ LOC: Zimbabwe"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Alice"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: 'Federal Road Safety Corps $$ ORG: FRSC $$ LOC: Anambra $$ PER: Florence Edor"}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": "PER: Edor"}
+{"prediction": "ORG: FRSC $$ LOC: Anambra $$ PER: Adeoye A. Irelewuyi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: n'Amawbia $$ LOC: 'Awka South'"}
+{"prediction": "ORG: 'Awka Capital Territory Development Authority $$ ORG: ACTDA $$ PER: Amaechi Okwuosa $$ ORG: 'Anambra State Urban Developmenta Board'"}
+{"prediction": "ORG: ASUDEB"}
+{"prediction": "ORG: ACTDA"}
+{"prediction": "LOC: Anambra $$ PER: Ebelechukwu Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: CAFE $$ PER: Obian\u1ecd $$ ORG: COCES"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ LOC: \u00e0kw\u00e0 mmiri Niger $$ LOC: Second Niger Bridge $$ LOC: Anambra $$ DATE: \u1ecdnwa Feb\u1ee5war\u1ecb ah\u1ecd na-ab\u1ecba ab\u1ecba"}
+{"prediction": "ORG: 'National Inland Waterways Agency $$ ORG: NIWA $$ PER: George Moghalu"}
+{"prediction": "PER: Muhammadu Buhari $$ LOC: Nigeria $$ PER: Moghalu"}
+{"prediction": ""}
+{"prediction": "LOC: Ana\u1ecdcha $$ LOC: Dunuk\u1ecdf\u1ecba"}
+{"prediction": "DATE: n'izu\u1ee5ka gara aga"}
+{"prediction": "DATE: udummiri"}
+{"prediction": "DATE: ah\u1ecd a"}
+{"prediction": "PER: Mbanefo $$ PER: Obian\u1ecd"}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": "LOC: Amichi"}
+{"prediction": "PER: Ephraim Okechukwu Ikeak\u1ecd"}
+{"prediction": "ORG: Philips Anglican Church $$ LOC: Ebenat\u1ecdr $$ LOC: 'Nnewi South' $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: tata"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Nkem Ikeak\u1ecdr $$ PER: Amichi $$ PER: Chukwuma Akam"}
+{"prediction": ""}
+{"prediction": "DATE: n'udummiri $$ DATE: n'\u1ecdk\u1ecdch\u1ecb"}
+{"prediction": "LOC: n'\u1eccn\u1ecbcha $$ LOC: Anambra $$ LOC: n'\u1eccn\u1ecbcha"}
+{"prediction": "ORG: 'Federal Road Safety Corps $$ ORG: FRSC $$ LOC: Anambra $$ PER: Kamal Musa"}
+{"prediction": ""}
+{"prediction": "PER: Musa $$ ORG: FRSC $$ LOC: Upper Iweka"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: FRSC $$ LOC: Anambra $$ PER: Andrew A. Kumapayi"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Kamal Musa $$ ORG: 'Federal Road Safety Corps $$ ORG: FRSC $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Shar\u1ecdn Ikeaz\u1ecdr $$ LOC: Anambra $$ LOC: Anambra $$ PER: Nkem Okeke"}
+{"prediction": ""}
+{"prediction": "ORG: Ka \u1ecc D\u1ecb Taa $$ LOC: Ebenator $$ LOC: 'Nnewi South' $$ LOC: Anambra"}
+{"prediction": "PER: Anthony Okechukwu $$ ORG: Ka \u1ecc D\u1ecb Taa $$ DATE: udummiri"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Ibo Ebenator $$ LOC: Anambra $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: Omor $$ LOC: \u1ee4m\u1ee5mbo"}
+{"prediction": "LOC: Ayamelum"}
+{"prediction": "LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": "PER: Solomon Ekwenze $$ PER: Emma Ude-Akpeh"}
+{"prediction": "PER: Willie Obian\u1ecd $$ PER: Nkem Okeke"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Ekwul\u1ecdb\u1ecba $$ LOC: Ag\u1ee5ata $$ LOC: Anambra $$ PER: Willie Obian\u1ecd $$ LOC: \u1ee4m\u1ee5ach\u1ecbana"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ ORG: 'Anambra State Signage and Advertisement Agency $$ ORG: ANSAA $$ LOC: Nnewi"}
+{"prediction": "LOC: Nnewi North"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Festus Emeka Udodeme $$ LOC: Anambra $$ LOC: n'Awka"}
+{"prediction": "PER: Titus Akpudo $$ PER: Chukwudubem Okafor $$ PER: Godwin-Iwuchukwu $$ PER: Fredrick Nwafor $$ PER: Samuel Udogalanya"}
+{"prediction": ""}
+{"prediction": "PER: Gilbert Olumba $$ PER: Peter Ezeofor $$ PER: Emmanuel Emelife $$ PER: Samuel Nweke $$ PER: Innocent Nwabuike $$ PER: Moses Odianma"}
+{"prediction": ""}
+{"prediction": "LOC: n'Anambra $$ PER: Udodeme $$ LOC: Nigeria"}
+{"prediction": "ORG: \u1ecchaneze Nd\u1ecb Igbo $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "PER: Mezue $$ LOC: Anambra $$ LOC: n'\u1eccka $$ LOC: Awka $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Lagos"}
+{"prediction": "LOC: Surulere $$ LOC: Victoria Island $$ DATE: izu \u1ee5ka gara aga"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Okeke $$ PER: Michael Okonkwo"}
+{"prediction": "PER: Okeke"}
+{"prediction": "PER: Okeke"}
+{"prediction": "DATE: isingw\u1ee5cha ah\u1ecd a"}
+{"prediction": "PER: Abiola Kolawole"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd $$ DATE: n'\u1ecdnwa ekeresimeesi ah\u1ecd 2018 $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Niger $$ DATE: n'izu\u1ee5ka gara aga"}
+{"prediction": ""}
+{"prediction": "PER: Bako Boubacar $$ LOC: Niamey"}
+{"prediction": "LOC: Niger"}
+{"prediction": "PER: Mounkaila Halidou"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee $$ LOC: Ibadan $$ LOC: Alakia"}
+{"prediction": "PER: Kola Balogun $$ LOC: Ugwu Oyo $$ ORG: APC $$ PER: Omeiwu"}
+{"prediction": "LOC: Ibadan"}
+{"prediction": "PER: Ahmad Lawan"}
+{"prediction": "PER: Willie Obian\u1ecd $$ LOC: n'\u1ee4m\u1ee5eri $$ LOC: 'Anambra East'"}
+{"prediction": "PER: Obian\u1ecd $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "LOC: Afr\u1ecbka $$ LOC: Naijiria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Afr\u1ecbka $$ LOC: Afr\u1ecbka $$ LOC: Naijiria $$ LOC: Abuja"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Fra\u1ecbdee $$ LOC: Afr\u1ecbka"}
+{"prediction": "LOC: Afr\u1ecbka"}
+{"prediction": ""}
+{"prediction": "ORG: 'All Progressives Congress' $$ ORG: APC $$ LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Basil Ejidike $$ LOC: n'\u1eccka $$ LOC: Awka"}
+{"prediction": "LOC: n'Anambra"}
+{"prediction": "PER: Buhari $$ ORG: APC"}
+{"prediction": "LOC: Anambra $$ LOC: n'\u1eccka $$ LOC: Awka $$ LOC: Anambra"}
+{"prediction": "LOC: n'Amawbia $$ LOC: n'Awka $$ LOC: Anambra"}
+{"prediction": "LOC: Nigeria $$ ORG: \u1ecdd\u1ee5 \u1ee5gb\u1ecdelu Nnamdi Azikiwe $$ LOC: n'Abuja"}
+{"prediction": "PER: Willie Obiano"}
+{"prediction": "LOC: Nigeria $$ PER: Ibikunle Daramola $$ DATE: \u1ee5b\u1ecdch\u1ecb \u1ee5ka gara aga"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Wenezdee izu\u1ee5ka gara aga $$ LOC: Niger"}
+{"prediction": "PER: Lawrence Ezeudu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ PER: Sirika Hadi"}
+{"prediction": "PER: Haruna Gadzama $$ PER: Henry Piyo $$ PER: Micheal Okpara $$ PER: Bassey Etim $$ PER: Olasunkanmi Olawunmi $$ PER: Ugochukwu Oluka $$ PER: Adewale Johnson"}
+{"prediction": ""}
+{"prediction": "DATE: 2021 $$ ORG: \u1eccba Akw\u1ee5kw\u1ecd Steeti Anambra $$ LOC: n'Ihemb\u1ecds\u1ecb"}
+{"prediction": "LOC: Ekwusigo $$ LOC: Anambra"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb \u1ecdr\u1ecba kans\u00e0 $$ DATE: ah\u1ecd 2021"}
+{"prediction": "PER: Agbalanze Arazu"}
+{"prediction": ""}
+{"prediction": "PER: Amaka Alor"}
+{"prediction": ""}
+{"prediction": "ORG: 'Anambra State Physical Planning Board' $$ ORG: ANSPPB $$ LOC: Nkp\u1ecdr $$ LOC: Idemili North $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ PER: Willie $$ LOC: Orsumoghu $$ LOC: Ideani $$ LOC: Ugbene"}
+{"prediction": "LOC: n'Amawbia"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Greg Obi"}
+{"prediction": "LOC: Nigeria $$ LOC: \u1eccn\u1ecbtsha $$ PER: Nnaemeka Alfred Achebe"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Anambra"}
+{"prediction": "DATE: n'ah\u1ecd gara aga $$ PER: Ndidi Mezue"}
+{"prediction": "PER: Mezue $$ LOC: Nasarawa $$ LOC: Nasarawa"}
+{"prediction": "LOC: n'Anambra"}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee $$ LOC: Umuokpu $$ LOC: \u1eccn\u1ecbsha"}
+{"prediction": "ORG: 'Federal Road Safety Corps' $$ ORG: FRSC $$ LOC: Anambra $$ PER: Florence Edor $$ LOC: n'Awka"}
+{"prediction": "ORG: FRSC $$ LOC: n'\u1eccka $$ LOC: Awka"}
+{"prediction": "ORG: FRSC $$ LOC: Anambra"}
+{"prediction": "PER: Andrew Kamapayi"}
+{"prediction": "ORG: Deeper Life Church $$ LOC: n'\u1ee4m\u1ee5nze $$ LOC: Orumba South'"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Jacob Okoye"}
+{"prediction": ""}
+{"prediction": "ORG: FRSC $$ PER: Kumapayi"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: n'\u1eccka $$ LOC: Awka $$ ORG: \u1ecdd\u1ee5 mman\u1ee5 \u1ee5gb\u1ecdala Stanel $$ LOC: Enugu $$ LOC: \u1eccn\u1ecbsha"}
+{"prediction": "LOC: Anambra $$ PER: Martin Agbili"}
+{"prediction": "PER: Agbili"}
+{"prediction": "ORG: 'National Social Investment Programme $$ ORG: NSIP"}
+{"prediction": "LOC: 'Dora Akunyili Women Development Centre' $$ LOC: n'\u1eccka $$ LOC: Awka $$ PER: Sadiya Umar Farouk"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Ndidi Mezue $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee $$ LOC: Oyo $$ LOC: n'ah\u1ecba Sabo"}
+{"prediction": ""}
+{"prediction": "PER: Moshood Adewuyi"}
+{"prediction": ""}
+{"prediction": "DATE: nkeji iri at\u1ecd $$ DATE: elekere iri na otu nke abal\u1ecb"}
+{"prediction": ""}
+{"prediction": "LOC: n'ah\u1ecba Sabo"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anaocha $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ ORG: \u1eccba Akw\u1ee5kw\u1ecd \u1ecckamm\u1ee5ta Kenneth Dike $$ LOC: n'\u1eccka $$ LOC: Awka $$ PER: Nkechi Udeze"}
+{"prediction": "LOC: n'\u1eccka"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb ncheta as\u1ee5s\u1ee5 \u1ecdd\u1ecbnala na mba \u1ee5wa $$ DATE: 'International Mother Language Day' $$ DATE: ah\u1ecd 2021"}
+{"prediction": ""}
+{"prediction": "PER: Obiakor"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Ndidi Mezue"}
+{"prediction": "LOC: 'Onisi Onira Garden' $$ LOC: 'Boromeo Roundabout' $$ LOC: n'Onitsha"}
+{"prediction": "LOC: Nteje $$ LOC: Oyi"}
+{"prediction": "PER: Mezue"}
+{"prediction": "DATE: \u1ecdnwa ise $$ PER: Chimamanda Ad\u1ecbchie $$ PER: Grace Ifeoma Ad\u1ecbchie"}
+{"prediction": "LOC: n'\u1eccka $$ LOC: Awka $$ LOC: Anambra $$ DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdnde $$ DATE: abal\u1ecb mb\u1ee5 nke \u1ecdnwa Maachi ah\u1ecd a $$ PER: James Nwoye Ad\u1ecbchie"}
+{"prediction": "PER: Grace Ife\u1ecdma Ad\u1ecbchie $$ ORG: Mahadum Nigeria $$ LOC: Nsukka $$ ORG: Anambra State Universal Basic Education Board $$ ORG: ASUBEB"}
+{"prediction": ""}
+{"prediction": "PER: Ad\u1ecbchie"}
+{"prediction": "PER: Grace Ifeoma Adichie $$ PER: Ijeoma Adichie $$ PER: Uchenna Adichie $$ PER: Chuks Adichie $$ PER: Okey Adichie $$ PER: Chimamanda Adichie $$ PER: Kenechukwu Adichie"}
+{"prediction": "LOC: ah\u1ecba \u1eccchanja $$ LOC: n'\u1eccn\u1ecbtsha $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Kerian Uzoma"}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria $$ ORG: 'Nigeria Civil Aviation Authority' $$ ORG: NCAA $$ PER: Nuhu Musa $$ LOC: Anambra $$ LOC: n'\u1ee4m\u1ee5eri $$ LOC: Anambra East"}
+{"prediction": ""}
+{"prediction": "PER: Musa"}
+{"prediction": "LOC: n'Awka $$ LOC: Anambra"}
+{"prediction": "PER: Florence Edor $$ ORG: 'Federal Road Safety Corps' $$ ORG: FRSC $$ LOC: Anambra $$ LOC: n'Awka $$ LOC: Anambra"}
+{"prediction": "LOC: Anambra"}
+{"prediction": "PER: Obian\u1ecd"}
+{"prediction": "PER: Edor"}
+{"prediction": "ORG: FRSC $$ PER: Andrew A. Kumapayi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Nelson Omen\u1ee5gha"}
+{"prediction": "PER: Omenugha $$ LOC: Umuru $$ LOC: Nnobi $$ LOC: 'Idemili North' $$ LOC: Anambra"}
+{"prediction": "LOC: Ekwul\u1ecdb\u1ecba $$ PER: Peter Okpalaeke $$ PER: Omen\u1ee5gha"}
+{"prediction": ""}
+{"prediction": "PER: Omen\u1ee5gha"}
+{"prediction": "PER: Omenugha $$ DATE: \u1ecdt\u1ee5t\u1ee5 ah\u1ecd gara aga"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Omen\u1ee5gha"}
+{"prediction": "LOC: n'\u1eccn\u1ecbtsha $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: \u1eccgbaru $$ LOC: Anambra $$ PER: Noble Igwe"}
+{"prediction": ""}
+{"prediction": "ORG: \u1ee5l\u1ecd\u1ecdgw\u1ee5 Toronto $$ PER: Emeka Eze $$ DATE: n'oge udummiri a"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: 'Federal Road Safety Corps $$ ORG: FRSC $$ LOC: Anambra $$ PER: Florence Edor $$ LOC: Obi\u1ee5n\u1ecd $$ LOC: n'Ekwul\u1ecdb\u1ecba"}
+{"prediction": "LOC: Ag\u1ee5ata"}
+{"prediction": "ORG: FRSC $$ LOC: Anambra $$ PER: Andrew A. Kumapayi"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: \u1ecdd\u1ee5 mman\u1ee5 \u1ee5gb\u1ecdala 'Ken Maduako Filling Station' $$ LOC: n'Ihiala"}
+{"prediction": ""}
+{"prediction": "ORG: 'Our Lady of Lourdes Hospital' $$ LOC: n'Ihiala $$ ORG: FRSC"}
+{"prediction": ""}
+{"prediction": "PER: Sylvester Chukwumalu $$ LOC: n'Ebenat\u1ecdr $$ LOC: 'Nnewi South' $$ LOC: Anambra"}
+{"prediction": "PER: Chukwumalu"}
+{"prediction": ""}
+{"prediction": "PER: Sylvester Chukwumalu $$ PER: Celestine Chukwumalu"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "PER: Chukwuemeka Michael Okafor-Ezelie"}
+{"prediction": ""}
+{"prediction": "LOC: 'Nnewi South' $$ PER: Chieloka Henry Okoye"}
+{"prediction": "PER: Sylvester Orjiakor Chukwumalu $$ DATE: n'ah\u1ecd 1913 $$ PER: Chukwmalu $$ PER: Dibianeri Chukwumalu"}
+{"prediction": "PER: Chukwumal\u1ee5 $$ ORG: St. Mattew's Catholic Church'"}
+{"prediction": "LOC: Ebenator"}
+{"prediction": "DATE: \u1ee5t\u1ee5t\u1ee5 $$ DATE: n'\u1ee5t\u1ee5t\u1ee5 \u1ee5b\u1ecdch\u1ecb M\u1ecdnde $$ DATE: abal\u1ecb iri ab\u1ee5\u1ecd na \u00f3t\u00f9 nke \u1ecdnwa Disemb\u00e0 ah\u1ecd 2020"}
+{"prediction": ""}
+{"prediction": "LOC: Ebenator $$ LOC: 'Nnewi South' $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "LOC: Amannal\u1ee5 $$ LOC: Amannalu Junction $$ ORG: 'Ummunnama Progressive Youths' $$ LOC: \u1ee4m\u1ee5nnama $$ LOC: Ebenator"}
+{"prediction": ""}
+{"prediction": "LOC: \u1ee4kp\u1ecdr $$ LOC: 'Nnewi South' $$ LOC: Ihembos\u1ecb $$ LOC: \u1ecck\u1ecbja"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Awka $$ DATE: n'izu\u1ee5ka a $$ ORG: n'\u1ecdba akw\u1ee5kw\u1ecd steeti Anambra $$ LOC: n'Awka"}
+{"prediction": ""}
+{"prediction": "LOC: Ebenator $$ PER: Edwin Chinewubeze Ezejiburu $$ ORG: 'Ebenator Development Union $$ ORG: E.D.U $$ PER: Anthony Okechukwu"}
+{"prediction": ""}
+{"prediction": "ORG: Wikipedia"}
+{"prediction": "LOC: Ebenator"}
+{"prediction": "LOC: Ebenator $$ LOC: Ebenator"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Kwara $$ PER: Kehinde Moses $$ LOC: Ajase-Ipo $$ LOC: Illorin"}
+{"prediction": ""}
+{"prediction": "PER: Moses"}
+{"prediction": "PER: Moses"}
+{"prediction": "PER: Mohammed Bagega"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb M\u1ecdnde $$ LOC: n'Uli $$ LOC: Ihiala"}
+{"prediction": ""}
+{"prediction": "ORG: FRSC $$ LOC: Uli"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Ogun"}
+{"prediction": "LOC: Ogun"}
+{"prediction": "LOC: Agbado $$ PER: Kehinde Kuranga"}
+{"prediction": ""}
+{"prediction": "PER: Edward Awolowo Ajogun"}
+{"prediction": "ORG: 'Nnakwe Foundation' $$ LOC: n'Ifite-Anam $$ LOC: Anambra West $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Ifeoma Ateli $$ PER: Chioma Nnaemeka"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra"}
+{"prediction": "ORG: FRSC $$ LOC: Anambra $$ PER: Florence Edor"}
+{"prediction": ""}
+{"prediction": "LOC: Enugwu-Ag\u1ecbd\u1ecb $$ LOC: Enugu $$ LOC: \u1eccn\u1ecbtsha $$ LOC: Anambra"}
+{"prediction": "PER: Celestine Okafor $$ PER: Onyed\u1ecbkachi Okoye $$ LOC: 'Access Road Island'"}
+{"prediction": ""}
+{"prediction": "LOC: Nawfia"}
+{"prediction": ""}
+{"prediction": "LOC: Amichi, Nnewi South Local Government Area $$ LOC: Anambra State $$ ORG: Anambra State Library Board $$ DATE: 2021 African World Heritage Day"}
+{"prediction": "ORG: Amichi Branch Library"}
+{"prediction": "ORG: Anambra State Library Board $$ PER: Nkechi Udeze"}
+{"prediction": "DATE: today $$ LOC: Onitsha, Anambra State"}
+{"prediction": "ORG: Federal Road Safety Corps $$ ORG: FRSC $$ LOC: Anambra State $$ PER: Florence N Edor"}
+{"prediction": "DATE: 2 PM $$ LOC: New Parts $$ LOC: Down Flyover $$ LOC: Upper Iweka"}
+{"prediction": "LOC: Nigeria $$ ORG: 'Independent National Electoral Commission $$ ORG: INEC' $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: today 15th May, 2021 $$ DATE: 1410hrs $$ ORG: New Parts"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Toronto $$ ORG: FRSC $$ LOC: Upper Iweka Outpost"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: taa $$ LOC: Nigeria $$ ORG: Souther Governors Forum $$ DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee $$ LOC: Nigeria"}
+{"prediction": "LOC: n'Asaba $$ LOC: Delta $$ LOC: Nigeria"}
+{"prediction": "PER: Muhammadu Buhari $$ LOC: Nigeria"}
+{"prediction": "LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": "PER: Omen\u1ee5gha $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "ORG: YESS $$ PER: Emmanuel Nwankwo $$ LOC: UK $$ PER: Charles Ojukwu"}
+{"prediction": "LOC: Kabul $$ LOC: Ghor"}
+{"prediction": "DATE: \u1ee5b\u1ecdch\u1ecb Fra\u1ecbdee, abal\u1ecb 20 nke \u1ecdnwa \u1ecck\u1ee5toba $$ LOC: Kabul"}
+{"prediction": "PER: Mohammad Ikbal Nezami $$ LOC: Ghor"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Amer\u1ecbka $$ PER: Donald Trump $$ ORG: Twitter"}
+{"prediction": "PER: Trump"}
+{"prediction": ""}
+{"prediction": "ORG: Twitter"}
+{"prediction": ""}
+{"prediction": "PER: David Johnson $$ PER: Trump $$ PER: Johnson"}
+{"prediction": "LOC: Amer\u1ecbka $$ LOC: Amer\u1ecbka $$ PER: Donald Trump $$ PER: Trump $$ PER: Paul Menafort $$ PER: Rick Gates"}
+{"prediction": "PER: Trump $$ LOC: R\u1ecdsh\u1ecba $$ PER: Trump $$ PER: Hillary Clinton $$ DATE: n'af\u1ecd gara aga"}
+{"prediction": "LOC: n'Amer\u1ecbka $$ ORG: Federal Bureau of Investigation $$ ORG: FBI"}
+{"prediction": "PER: Trump $$ ORG: FBI $$ PER: James Comey"}
+{"prediction": "PER: Robert Mueller"}
+{"prediction": "PER: Mueller"}
+{"prediction": "DATE: taa $$ PER: Menafort $$ LOC: Yukren"}
+{"prediction": "LOC: Amer\u1ecbka $$ LOC: Amer\u1ecbka $$ LOC: Washington $$ DATE: taa b\u1ee5 abal\u1ecb iri ab\u1ee5\u1ecd na an\u1ecd nke \u1ecdnwa \u1ecck\u1ee5toba $$ LOC: Amer\u1ecbka $$ LOC: R\u1ecdsh\u1ecba $$ LOC: Amer\u1ecbka"}
+{"prediction": ""}
+{"prediction": "PER: Ryan Clayton $$ PER: Trump $$ LOC: Capitol Hill $$ LOC: Amer\u1ecbka"}
+{"prediction": "PER: Trump $$ LOC: Amer\u1ecbka $$ PER: Mitch McConnell $$ PER: Ryan $$ LOC: R\u1ecdsh\u1ecba $$ PER: Trump"}
+{"prediction": ""}
+{"prediction": "PER: Trump $$ PER: Trump"}
+{"prediction": "PER: Trump $$ LOC: R\u1ecdsh\u1ecba $$ PER: Trump $$ PER: Hillary Clinton $$ LOC: Amer\u1ecbka $$ DATE: n'af\u1ecd gara aga"}
+{"prediction": "LOC: Amer\u1ecbka $$ LOC: Amer\u1ecbka"}
+{"prediction": "PER: Robert Mueller $$ PER: Trump $$ LOC: R\u1ecdsh\u1ecba"}
+{"prediction": "DATE: Taa b\u1ee5 S\u1ecdndee $$ DATE: abal\u1ecb 5 nke \u1ecdnwa N\u1ecdvemba $$ LOC: Amer\u1ecbka $$ ORG: First Baptist Church $$ LOC: Sutherland Springs $$ LOC: Tegzas"}
+{"prediction": "DATE: elekere iri na otu na \u1ecdkara"}
+{"prediction": ""}
+{"prediction": "PER: Frank Pomeroy $$ LOC: \u1ee4k\u1ecdchukwu"}
+{"prediction": "PER: George Papadopoulos $$ PER: Donald Trump"}
+{"prediction": "PER: Robert Mueller $$ PER: Donald Trump $$ LOC: R\u1ecdsh\u1ecba $$ DATE: \u1ee5b\u1ecdch\u1ecb Mondee $$ PER: Trump"}
+{"prediction": ""}
+{"prediction": "PER: Mueller $$ PER: Paul Menafort $$ PER: Trump $$ PER: Rick Gates $$ PER: Trump"}
+{"prediction": "DATE: \u1ecdnwa Jula\u1ecb af\u1ecd a $$ PER: Mueller $$ PER: George Papadopoulos $$ PER: Trump $$ LOC: R\u1ecdsh\u1ecba"}
+{"prediction": "PER: Mueller $$ PER: George Papadopoulos $$ ORG: FBI"}
+{"prediction": "PER: Papadopoulos"}
+{"prediction": "PER: Papadopoulos $$ PER: Mueller"}
+{"prediction": "PER: Papadopoulos $$ PER: Trump"}
+{"prediction": "DATE: taa b\u1ee5 Nwenezdee $$ PER: Trump $$ PER: Papadopoulos $$ ORG: Twitter"}
+{"prediction": "LOC: Manhattan $$ LOC: New York"}
+{"prediction": ""}
+{"prediction": "DATE: n'ehihe \u1ecdcha"}
+{"prediction": "LOC: New York $$ PER: Bill de Blazio $$ LOC: Amer\u1ecbka"}
+{"prediction": "LOC: Naijiria"}
+{"prediction": "ORG: Otu Egwu B\u1ecd\u1ecdl\u1ee5 Real Madrid $$ LOC: Yuropu $$ ORG: otu egwu b\u1ecd\u1ecdl\u1ee5 Ajax $$ DATE: \u1ee5b\u1ecdch\u1ecb Tuuzdee"}
+{"prediction": "DATE: mkp\u1ee5r\u1ee5 \u1ee5b\u1ecdch\u1ecb asaa $$ ORG: otu egwu b\u1ecd\u1ecdl\u1ee5 Madrid"}
+{"prediction": "DATE: af\u1ecd ise gara aga $$ ORG: Madrid $$ DATE: n'af\u1ecd puku ab\u1ee5\u1ecd na iri $$ DATE: n'af\u1ecd mb\u1ee5 $$ PER: Cristiano Ronaldo"}
+{"prediction": "PER: Ronaldo $$ ORG: Madrid $$ DATE: n'af\u1ecd gara aga $$ PER: Gareth Bale $$ PER: Ronaldo $$ ORG: Madrid $$ PER: Bale"}
+{"prediction": "PER: Solari $$ PER: Julen Lopetegui $$ DATE: n'\u1ecdnwa Novemba $$ ORG: Barcelona $$ DATE: izu \u1ee5ka a"}
+{"prediction": "ORG: Madrid $$ PER: Florentino Perez $$ PER: Solari"}
+{"prediction": ""}
+{"prediction": "ORG: Ajax $$ ORG: Santiago Bernabeu"}
+{"prediction": "PER: Hakim Ziyech $$ PER: David Neres $$ PER: Dusan Tadic $$ PER: Marco Asensio $$ ORG: Madrid"}
+{"prediction": "DATE: nkeji ab\u1ee5\u1ecd gas\u1ecbr\u1ecb $$ PER: Lasse Schone $$ ORG: Madrid $$ PER: Nacho"}
+{"prediction": "PER: Bale $$ DATE: nkeji iri ab\u1ee5\u1ecd na iteghete $$ PER: Lucas Vazquez $$ LOC: Wales"}
+{"prediction": "PER: Sergio Ramos"}
+{"prediction": "PER: Raphael Varane $$ DATE: nkeji ise"}
+{"prediction": "ORG: Ajax"}
+{"prediction": "PER: Toni Kroos $$ DATE: n'abal\u1ecb $$ PER: Dusan Tadic"}
+{"prediction": "PER: Tadic $$ PER: Ziyech"}
+{"prediction": "ORG: Ajax $$ PER: Neres $$ PER: Dani Carvajal $$ PER: Tadic $$ PER: Casemiro"}
+{"prediction": "PER: Neres $$ PER: Thibaut Courtious"}
+{"prediction": "PER: Vazquez $$ PER: Vinicius Junior"}
+{"prediction": "PER: Bale $$ PER: Asensio"}
+{"prediction": "PER: Donny van de Beek $$ PER: Tadic"}
+{"prediction": "PER: Felix Brych $$ PER: Noussair Mazraoui"}
+{"prediction": ""}
+{"prediction": "ORG: Madrid $$ DATE: nkeji iri ab\u1ee5\u1ecd na-an\u1ecd na ab\u1ee5\u1ecd na nkeji iri ab\u1ee5\u1ecd $$ PER: Asensio $$ PER: Sergio Reguilon"}
+{"prediction": "PER: Erik ten Hag $$ PER: Schone"}
+{"prediction": "PER: Frenkie de Jong $$ DATE: nkeji nke iri asat\u1ecd na an\u1ecd $$ PER: Luka Modric $$ PER: Benzema"}
+{"prediction": "PER: Nacho $$ PER: Van de Beek $$ LOC: Madrid"}
+{"prediction": "LOC: Anambra $$ DATE: mbido izu \u1ee5ka a $$ LOC: Nigeria $$ DATE: ah\u1ecd 2020"}
+{"prediction": "PER: Obian\u1ecd $$ DATE: ah\u1ecd a $$ LOC: n'Ab\u1ee5ja $$ LOC: Nigeria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "LOC: Nigeria"}
+{"prediction": "PER: Adamu $$ PER: Obian\u1ecd"}
+{"prediction": "LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Moez Ben Cherifia $$ PER: Yassine Bonnou $$ PER: Mohamed El Shenaway $$ PER: Sylvain Gbohouo $$ PER: Rais M \" bolhi $$ PER: Edouard Mendy $$ PER: Richard Ofori $$ PER: Andre Onana $$ PER: Denis Onyango $$ PER: Francis Uzoho"}
+{"prediction": "PER: Youcef Atal $$ PER: Serge Aurier $$ PER: Mehdi Benatia $$ PER: Ahmed El - Mohammadi $$ PER: Lamine Gassama $$ PER: Faouzi Ghoulam $$ PER: Achraf Hakimi $$ PER: Ahmed Hegazi $$ PER: Kalidou Koulibaly $$ PER: Christian Luyindama $$ PER: Issa Mandi $$ PER: Joel Matip $$ PER: Noussair Mazraoui $$ PER: Yassine Meriah $$ PER: Youssouf Sabaly"}
+{"prediction": "PER: Andre- Frank Anguissa $$ PER: Ismael Bennacer $$ PER: Sofiane Feghouli $$ PER: Idrissa Gueye $$ PER: Tarek Hamed $$ PER: Alex Iwobi $$ PER: Wahbi Khazri $$ PER: Naby Keita $$ PER: Franck Kessie $$ PER: Wilfried Ndidi $$ PER: Riyad Mahrez $$ PER: Thomas Partey $$ PER: Mubarak Wakaso $$ PER: Victor Wanyama $$ PER: Hakim Ziyech"}
+{"prediction": "PER: Pierre Emerick Aubameyang $$ PER: Jordan Ayew $$ PER: Anis Badri $$ PER: Cedric Bakambu $$ PER: Youcef Belaili $$ PER: Baghdad Bounedjah $$ PER: Odion Ighalo $$ PER: Sadio Mane $$ PER: Moussa Marega $$ PER: Mbaye Niang $$ PER: Nicolas Pepe $$ PER: Mohamed Salah $$ PER: Islam Slimani $$ PER: Percy Tau $$ PER: Wilfried Zaha"}
+{"prediction": "LOC: Ugo Ukwu $$ LOC: Naijiria $$ LOC: n'amaegwuregwu Godswill Akpabio $$ LOC: Uyo $$ LOC: Benin"}
+{"prediction": "PER: Ugo Ukwu $$ PER: Uze $$ LOC: Afr\u1ecbka"}
+{"prediction": "PER: St\u00e9phane Sess\u00e8gnon $$ DATE: nkeji ise $$ ORG: Lille $$ PER: Victor Osimhen"}
+{"prediction": "ORG: Bordeaux $$ PER: Samuel Kalu $$ LOC: Naijiria $$ DATE: nkeji iri isii na at\u1ecd $$ LOC: Naijiria"}
+{"prediction": "LOC: Naijiria $$ DATE: 2021 \u1ee5b\u1ecdch\u1ecb \u1ee5ka $$ LOC: Lesotho $$ LOC: n'amaegwuregwu Setsoto $$ LOC: Maseru"}
+{"prediction": "LOC: Naijiria $$ LOC: Sierra Leone $$ LOC: Lesotho $$ LOC: Freetown"}
+{"prediction": "PER: Kwame Quee $$ LOC: Iceland $$ LOC: Sierra Leone $$ DATE: nkeji iri isii na iteghete"}
+{"prediction": ""}
+{"prediction": "PER: John Ogu $$ PER: Etebo Oghenakaro $$ PER: Francis Uzoho $$ PER: Victor Osimhen $$ PER: Henry Onyekuru $$ DATE: taa"}
+{"prediction": "ORG: FeeSuperEagles"}
+{"prediction": "ORG: Twitter"}
+{"prediction": "DATE: Mondee $$ PER: Alex Iwobi $$ PER: Odion Ighalo $$ PER: Semi Ajayi $$ PER: Valentine Ozornwafor $$ PER: Daniel Akpeyi $$ PER: Ikechukwu Ezenwa $$ PER: Ikouwen Udo"}
+{"prediction": "DATE: Tuzdee $$ PER: Ahmed Musa $$ PER: Leon Balogun $$ PER: Kenneth Omeruo $$ PER: William Troost-Ekong"}
+{"prediction": "DATE: nkeji iri na ise ka \u1ecd k\u1ee5\u1ecd elekere ise nke mgbede \u1ee5b\u1ecdch\u1ecb Tuzdee $$ LOC: n'\u00e1m\u00e1 egwuregwu Stephen Keshi"}
+{"prediction": "PER: Gernot Rohr $$ LOC: Afr\u1ecbka $$ DATE: af\u1ecd puku ab\u1ee5\u1ecd na iri na iteghete $$ LOC: Ijipt $$ LOC: Asaba $$ DATE: \u1ee5b\u1ecdch\u1ecb Tuzdee izu \u1ee5ka \u1ecdz\u1ecd"}
+{"prediction": "LOC: Seychelles $$ ORG: 'Pirates' $$ LOC: Abuja $$ DATE: Tuzdee $$ LOC: Afr\u1ecbka"}
+{"prediction": "LOC: Seychelles $$ LOC: Ethiopia $$ DATE: n'ehihie Tuzdee $$ LOC: Asaba $$ DATE: Wednezdee $$ DATE: taa $$ ORG: NFF"}
+{"prediction": ""}
+{"prediction": "LOC: Anambra $$ LOC: Anambra"}
+{"prediction": "LOC: Anambra $$ PER: Willie Obian\u1ecd"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "DATE: ah\u1ecd 2020 $$ LOC: Anambra $$ DATE: 2020 $$ LOC: Anambra"}
+{"prediction": ""}
+{"prediction": "PER: Anthony Joshua $$ PER: Andy Ruiz Jr"}
+{"prediction": "PER: Adeyeye Ogunwusi $$ LOC: Naijiria"}
+{"prediction": "PER: Ooni $$ LOC: Naijiria"}
+{"prediction": ""}
+{"prediction": ""}
+{"prediction": "ORG: \u1ecchaneze Nd\u1ecb Igbo $$ PER: Nna Nwodo $$ LOC: Eri"}
+{"prediction": "PER: Ooni nke Ife $$ LOC: Niger"}
+{"prediction": "PER: Chukwuemeka Eri $$ PER: Eri $$ LOC: Israel $$ LOC: Aguleri"}
+{"prediction": "LOC: Naijiria $$ LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "LOC: Tanzania $$ LOC: Angola $$ LOC: Uganda $$ LOC: Guinea $$ LOC: Angola"}
+{"prediction": "PER: Olatomi Olaniyan $$ PER: Tijani $$ PER: Charles Etim $$ PER: Osvaldo Capemba $$ LOC: Angola $$ PER: Wisdom Ubani $$ DATE: nkeji ab\u1ee5\u1ecd gas\u1ecbr\u1ecb"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba"}
+{"prediction": "PER: Andre Sebastio Zito $$ LOC: Angola $$ DATE: nkeji nke at\u1ecd $$ DATE: \u1ecdkara nke ab\u1ee5\u1ecd $$ LOC: Naijiria"}
+{"prediction": "DATE: N'\u1ee5b\u1ecdch\u1ecb \u1ee5ka $$ LOC: Cameroon $$ LOC: Guinea $$ LOC: Afr\u1ecbka $$ LOC: Guinea"}
+{"prediction": "LOC: Na\u1ecbjir\u1ecba $$ LOC: n'amaegwuregwu Chamazi $$ LOC: Dar es Salaam $$ DATE: \u1ee5b\u1ecdch\u1ecb Sat\u1ecddee $$ LOC: Afr\u1ecbka $$ LOC: Uganda"}
+{"prediction": ""}

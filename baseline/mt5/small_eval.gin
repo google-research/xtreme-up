@@ -1,0 +1,6 @@
+include "third_party/py/t5x/configs/runs/eval.gin"
+include "third_party/py/t5x/examples/t5/mt5/small.gin"
+
+BATCH_SIZE = 128
+DROPOUT_RATE = 0
+TASK_FEATURE_LENGTHS = {'inputs': 512, 'targets': 512}
