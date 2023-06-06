@@ -16,7 +16,7 @@ the following URLs.
 
 XTREME-UP data is primarily in:
 
-*   [https://storage.googleapis.com/xtreme-up/v1.0/xtreme-up.jsonl.tgz](https://storage.googleapis.com/xtreme-up/v1.1/xtreme-up.jsonl.tgz)
+*   [https://storage.googleapis.com/xtreme-up/xtreme-up-v1.1.jsonl.tgz](https://storage.googleapis.com/xtreme-up/xtreme-up-v1.1.jsonl.tgz)
 
 Two exceptions:
 
